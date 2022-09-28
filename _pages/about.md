@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>John Crerar Library Room 277</p>
+    <p>John Crerar Library 277</p>
     <p>5730 S Ellis Ave</p>
     <p>Chicago, IL, 60616</p>
 
