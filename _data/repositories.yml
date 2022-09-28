@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jamessud
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jamessud/DWAVE_Isomorphism
+  - jamessud/QAOA
+  - jamessud/jamessud.github.io
