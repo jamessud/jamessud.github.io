@@ -3,20 +3,20 @@
   contents:
     - name: Full Name
       value: James Patrick Sud
-    - name: Date of Birth
-      value: 5th August 1998
+    - names: Location
+      value: Chicago, IL
     - name: Languages
-      value: English
+      value: English, Elementary Spanish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD candidate
       institution: University of Chicago
-      year: 1st year
+      year: 2022-Present
       description:
         - Advised by Dr. Fred Chong
-        - With EPIQC
+        - With Enabling Practical-Scale Quantum Computing (EPIQC) Lab
         - Supported by NSF GRFP
         - Studying quantum algorithms, systems, and information
     - title: Undergraduate
