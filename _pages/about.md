@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hahmez_logo.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>John Crerar Library 277</p>
@@ -17,4 +17,10 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi! I'm a first year PhD in Computer Science at the University of Chicago under Professor Fred Chong with an interest in quantum algorithms, information, and systems; supported by the NSF GRFP Fellowship. Previously, I have been affiliated with UC Berkeley, the Universities Space Research Association, the NASA Quantum AI Lab, the Los Alamos National Lab, and the Berkeley Lab. I am also the bassist, guitarist, and manager of MintJulep, a neo-soul/jazz band based in the San Francisco Bay area, and am the producer and instrumentalist in Sunnydew, a duet project with Maya. You can find either of these on your favorite streaming platform. I also love woodworking, surfing, skating, basketball, jazz, south asian and Brazilian music, hip hop, soul, spicy food, sweets, beaches, salt, indie movies, painting, creative writing, walking, and sleeping.
+ Hello friend! Talk to me if you love smelling flowers, breathing and walking deeply, perfecting your jump shot, or researching quantum algorithms.
+ 
+ I'm currently practicing all of the above, the last one via a PhD in Computer Science at the University of Chicago under Professor Fred Chong - supported by the NSF GRFP Fellowship. 
+
+ It is my hope to update this page with poetry, music, visual art, and scientific publications as they come along. Find these on my blogroll. If anything interests you, don't be shy to send an email my way.
+
+

@@ -61,11 +61,11 @@
             {%- if site.lastfm_id -%}
             <a href="https://www.last.fm/user/{{ site.lastfm_id }}" title="Last FM"><i class="fab fa-lastfm"></i></a>
             {% endif %}
-            {%- if site.spotify_id -%}
-            <a href="https://open.spotify.com/artist/{{ site.spotify_id }}" title="Spotify"><i class="fab fa-spotify"></i></a>
+            {%- if site.spotify_show_id -%}
+            <a href="https://open.spotify.com/show/{{ site.spotify_show_id }}" title="Spotify"><i class="fab fa-spotify"></i></a>
             {% endif %}
-            {%- if site.spotify2_id -%}
-            <a href="https://open.spotify.com/artist/{{ site.spotify2_id }}" title="Spotify2"><i class="fab fa-spotify"></i></a>
+            {%- if site.spotify_artist_id -%}
+            <a href="https://open.spotify.com/artist/{{ site.spotify_artist_id }}" title="Spotify2"><i class="fab fa-spotify"></i></a>
             {% endif %}
             {%- if site.soundcloud_id -%}
             <a href="https://soundcloud.com/{{ site.soundcloud_id }}" title="Soundcloud"><i class="fab fa-soundcloud"></i></a>

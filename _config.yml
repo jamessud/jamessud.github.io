@@ -15,7 +15,7 @@ footer_text: >
 keywords: jekyll, academic-website, portfolio-website, quantum-computing # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: lotus_icon.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://jamessud.github.io
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -84,8 +84,8 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
-spotify_id: 2xVoufTBiystuRPx6TVKwD?si=teb44E3mRlyY0qkWzEW0qw
-spotify2_id: 6zrR268yXIl6r7OF2eXDtr?si=Lae1FfIZSw2VhRRexfxy0g
+spotify_show_id: 5c4sW4rzsMPjh4rGFruZ4j?si=d9d5e3e19af44c7b 
+spotify_artist_id: 2xVoufTBiystuRPx6TVKwD?si=eomnTyuyThSaVIIPkw-GEg 
 soundcloud_id: hamesyzm
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
