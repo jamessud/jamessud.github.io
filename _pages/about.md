@@ -11,7 +11,7 @@ profile:
   address: >
     <p>John Crerar Library 277</p>
     <p>5730 S Ellis Ave</p>
-    <p>Chicago, IL, 60616</p>
+    <p>Chicago, IL, 60637</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
