@@ -9,16 +9,16 @@ category: words
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hahmez_logo.jpg" title="example image" class="img-fluid rounded z-depth-1" style="width: 50%;" %}
+        {% include figure.html path="assets/img/hahmez_logo.jpg" title="example image" class="img-fluid rounded z-depth-1" style="width: 10%;" %}
     </div>
 </div>
 
 
 The toppling giggle of a tumbling boy and a tumbling girl spun down the sheer granite mountainside, bounced off a limestone plateau, and splashed onto the still face of Kalki –
 
-&emsp – who woke from a thousand year lotus mediation, and became aware of the sight:
+&emsp;&emsp; – who woke from a thousand year lotus mediation, and became aware of the sight:
 
-&emsp &emsp &emsp &emsp Two tucked forms of small children, pink skin unbordered by clothes, rolling head-over-feet through patches of snow and rock formations, heading directly towards Kalki’s rooted figure.
+&emsp;&emsp;&emsp;&emsp; Two tucked forms of small children, pink skin unbordered by clothes, rolling head-over-feet through patches of snow and rock formations, heading directly towards Kalki’s rooted figure.
 
 And right before it seemed the boy were to collide directly into Kalki’s chest, he smashed and cracked his body into a fallen tree, hurtling himself through the air, body still spinning, plunging head-first into a nearby snowbank, disappearing completely from sight, leaving just a small splash of displaced powder.
 
@@ -28,9 +28,9 @@ Kalki immediately sprung to their feet and sprinted towards the boy. The girl co
 
 Swaying in alpine breeze were the edelweiss. With wisdom in white pedals, and compassion in yellow buds. Atop the limestone plateau Kalki -
 
-&emsp &emsp &emsp &emsp – 10th avatar of Lord Vishnu, God of Preservation
+&emsp;&emsp;&emsp;&emsp; – 10th avatar of Lord Vishnu, God of Preservation
 
-&emsp &emsp &emsp &emsp &emsp &emsp – returned to lotus form for an unmeasured length of time.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; – returned to lotus form for an unmeasured length of time.
 
 While the edelweiss grew closer to their soft ankles.
 
@@ -38,13 +38,13 @@ While the edelweiss grew closer to their soft ankles.
 
 At some point Kalki is struck by a snowball, followed by the soft, scurried patter of small feet.
 
-&emsp &emsp &emsp &emsp Without mud there can be no lotus.
+&emsp;&emsp;&emsp;&emsp; Without mud there can be no lotus.
 
 <p><center> ~ * ~ </center></p>
 
 At some point Kalki hears the deep, anguished sob of two children. Immediately, the avatar rises to their feet once more and heads towards the children. Seeing Kalki between eyes buried by fingers, the girl stammers,
 
-&emsp &emsp &emsp &emsp “mama!”
+&emsp;&emsp;&emsp;&emsp; “mama!”
 
 Kalki looks down and sees a purple figure. A deeper, bluer, blacker shade than the boy had appeared. Kalki lifts the mother and pulls her closely – transferring warmth. Her heat is gone. The children hush.
 
