@@ -17,6 +17,7 @@ category: words
 The toppling giggle of a tumbling boy and a tumbling girl spun down the sheer granite mountainside, bounced off a limestone plateau, and splashed onto the still face of Kalki –
 
 &emsp;&emsp;&emsp;&emsp; – who woke from a thousand year lotus mediation, and became aware of the sight:
+
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Two tucked forms of small children, pink skin unbordered by clothes, rolling head-over-feet through patches of snow and rock formations, heading directly towards Kalki’s rooted figure.
 
 And right before it seemed the boy were to collide directly into Kalki’s chest, he roll-smashed his upper back into a fallen tree, hurtling himself through the air, body still spinning, plunging head-first into a nearby snowbank, disappearing completely from sight, leaving just a small splash of displaced powder.
@@ -32,6 +33,7 @@ Swaying in alpine breeze were the *edelweiss*. With wisdom in white pedals, and 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; – returned to lotus form for an unmeasured length of time. 
 
 While the *edelweiss* grew closer to their soft ankles.
+
 
 At some point Kalki is struck by a snowball, followed by the soft, scurried patter of small feet. 
 
@@ -52,7 +54,7 @@ Kalki returns to the limestone plateau and assumes the lotus form once more. The
 
 One day the avatar awakes to an earthly smell. Kalki opens their eyes and finds a straw basket filled with wild mushrooms. Laced in the handle of the basket are more of the white flowers that furled around Kalki’s ankles.
 
-*The avatars of Vishnu are assumed in form when the universe is in need of a restoration of balance. *
+*The avatars of Vishnu are assumed in form when the universe is in need of a restoration of balance.*
 
 Kalki smiles. They clutch the basket to their chest. They do not grip too tightly, knowing not to crush the delicate mushrooms and flowers, knowing they may fall from grasp.
 
