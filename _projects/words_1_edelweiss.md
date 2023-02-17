@@ -34,6 +34,7 @@ Swaying in alpine breeze were the *edelweiss*. With wisdom in white pedals, and 
 
 While the *edelweiss* grew closer to their soft ankles.
 
+<p><center> ~ * ~ </center></p>
 
 At some point Kalki is struck by a snowball, followed by the soft, scurried patter of small feet. 
 

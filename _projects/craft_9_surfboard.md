@@ -1,0 +1,14 @@
+---
+layout: page
+title: Surfboard
+description: Foam and Wood Core with Colored Epoxy Resin with Hand-Crafted Baltic Birch Plywood Fins, 2016
+img: assets/img/paint/surfboard.jpg
+importance: 9
+category: craft
+---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/paint/surfboard_back.jpg" title="back view" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Spiders
+description:
 img:
-importance: 3
-category: paint
+importance: 10
+category: words
 ---
 
 Every project has a beautiful feature showcase page.

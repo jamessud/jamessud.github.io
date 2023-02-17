@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Veg or Non-Veg, That Is The Question?
+description: 
+img:
+importance: 11
 category: words
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Lucy
+description: 
 img:
-importance: 4
-category: paint
+importance: 9
+category: words
 ---
 
 Every project has a beautiful feature showcase page.
