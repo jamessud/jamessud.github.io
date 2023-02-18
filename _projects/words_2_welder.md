@@ -60,4 +60,6 @@ Our welder steps outside to find a sunny day, filled with frolicking little boys
 
 Our welder leaves, and returns with a ruler, to measure the length of her arm.
 
+
+
 Image: Tenor Sermon, from the Jazz Series by Romare Bearden, 1979. Color lithograph on paper. Smithsonian American Art Museum, Renwick Gallery.

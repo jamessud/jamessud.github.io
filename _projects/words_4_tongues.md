@@ -47,4 +47,5 @@ While fungi and insects and bacteria devoured his tongue in a nearby landfill, a
 Rocking back and forth in the same chair his grandmother used to cradle him, the man traces his life like a child searching a map. Eight-eight years ago his grandmother had passed, and for eighty years the chair waited for him. His new wife sits next to him most every afternoon, her head tilted back, open to the sky. She has never heard his tongue form t’s and z’s and r’s, but she listens to the way the old chair creeks, noticing the tempo of the chair, when he almost tips himself over a bit too far, and when the bugs and critters scurry under the rockers, towards their two-dimensional afterlife, prostrated between cedar wood and linoleum tile.
 
 
+
 Image: Landfill by Ricardo Laranjo, 2011. Oil on Canvas. 

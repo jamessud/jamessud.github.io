@@ -16,7 +16,9 @@ Underground the ants would be so confused and send out so many pheremones and sc
 And the red plane radio would play – 
 	
 &emsp;&emsp;&emsp;&emsp; “Aaaand when them cotton balls get rotten,
+
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; You can’t pick very much cotton!”
+
 
 And he would spill some chicken tandoori on his leather vest and have salt on mustache.
 
@@ -24,6 +26,7 @@ And he would spill some chicken tandoori on his leather vest and have salt on mu
 
 &emsp;&emsp;&emsp;&emsp; And the soft padded grass where the red paint plane flew to
  a dream from the mingling morning spices of the family home is still unfolding
+
 
 
 Image: Red Biplane by Dennis Ziemienski. Oil on canvas, 

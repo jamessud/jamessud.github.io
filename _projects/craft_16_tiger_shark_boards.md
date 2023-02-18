@@ -7,4 +7,8 @@ importance: 16
 category: craft
 ---
 
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/craft/tiger_shark_board.png" title="tiger_and_shark_boards" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
