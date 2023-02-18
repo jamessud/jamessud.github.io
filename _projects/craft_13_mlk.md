@@ -2,7 +2,7 @@
 layout: page
 title: MLK
 description: Acrylic Paint on Canvas, tribute to Dr. Martin Luther King, Jr, 2014
-img: assets/img/paint/mlk.jpg
+img: assets/img/craft/mlk.png
 importance: 13
 category: craft
 ---

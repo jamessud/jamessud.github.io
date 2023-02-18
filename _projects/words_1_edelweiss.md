@@ -2,17 +2,10 @@
 layout: page
 title: The Edelweiss and the Lotus
 description:
-img: assets/img/hahmez_logo.jpg
+img: assets/img/for_writing/hahmez_logo.jpg
 importance: 1
 category: words
 ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hahmez_logo.jpg" title="example image" class="img-fluid rounded z-depth-1" style="width: 10%;" %}
-    </div>
-</div>
-
 
 The toppling giggle of a tumbling boy and a tumbling girl spun down the sheer granite mountainside, bounced off a limestone plateau, and splashed onto the still face of Kalki –
 
@@ -60,3 +53,5 @@ One day the avatar awakes to an earthly smell. Kalki opens their eyes and finds 
 Kalki smiles. They clutch the basket to their chest. They do not grip too tightly, knowing not to crush the delicate mushrooms and flowers, knowing they may fall from grasp.
 
 Kalki even lets out a giggle as they topple head-over-feet down the Alps.
+
+Image: The Edelweiss and The Lotus, by James Sud. Digital.

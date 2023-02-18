@@ -1,80 +1,29 @@
 ---
 layout: page
-title: Veg or Non-Veg, That Is The Question?
+title: Veg or Non-Veg, That Is the Question?
 description: 
-img:
+img: assets/img/for_writing/plane.jpg
 importance: 11
 category: words
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Little cobwebs are falling through the rusty engine gears of the chipped red paint plane, rested on a 300 meter patched dirt and grass runway with little dandelions popping up between little rocks. And big strong oak trees stand by the side of the dirt, holding the ground safe from winds that used to toss and turn and bring sharp glassy raindrops, chipping paint off the little red plane.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+And throughout the patchwork runway, amidst dirt and sinking back below the dandelions, are pads of grass that are unfolding themselves from days of the motor wind signals that always came before an hour of being flattened. And a bug-eyed man in all leather would wander about and spill some drink on the dandelions, and the crows would fly back in and populate the tree branches and drop droppings on the leather hat bobbing about like a coyote.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Underground the ants would be so confused and send out so many pheremones and scurry like white noise or cotton balls loose in the air. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+And the red plane radio would play – 
+	
+&emsp;&emsp;&emsp;&emsp; “Aaaand when them cotton balls get rotten,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; You can’t pick very much cotton!”
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+And he would spill some chicken tandoori on his leather vest and have salt on mustache.
+
+&emsp;&emsp;&emsp;&emsp; And on a nextdoor fielded stoney graveyard, where plants grow where you think they shouldn’t, the weeds are padded flat by footsteps. By a little rock in the family home his ashram is never alone. It always smells like lavender and frankincense and burfi and halva. A coin that fell out of his tan cotton pockets hasn’t been found under curling pads of grass.
+
+&emsp;&emsp;&emsp;&emsp; And the soft padded grass where the red paint plane flew to
+ a dream from the mingling morning spices of the family home is still unfolding
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Image: Red Biplane by Dennis Ziemienski. Oil on canvas, 
