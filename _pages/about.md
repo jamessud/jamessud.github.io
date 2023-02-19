@@ -17,10 +17,10 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
- Talk to me if you love smelling flowers, deep belly breathing, herbal teas, woodwork, perfecting your jump shot, or researching quantum algorithms.
+ Talk to me if you love deep belly breathing, herbal teas, woodcrafting, perfecting your jump shot, or researching quantum algorithms.
  
  I'm currently practicing all of the above, the last one via a PhD in Computer Science at the University of Chicago under Professor Fred Chong — supported by the NSF GRFP Fellowship. 
 
- It is my hope to update this page with poetry, music, visual art, and scientific publications as they come along. Find these on my blogroll. If anything interests you, don't be shy to send an email my way.
+ Enjoy my offerings of poems, stories, and crafts in the flowers section, and find publications, talks, etc everywhere else.
 
 
