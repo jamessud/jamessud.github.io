@@ -15,7 +15,7 @@ footer_text: >
 keywords: jekyll, academic-website, portfolio-website, quantum-computing # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: lotus_icon.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: transparent_lotus.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://jamessud.github.io
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
