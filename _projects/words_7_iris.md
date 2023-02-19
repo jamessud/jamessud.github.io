@@ -22,8 +22,8 @@ She had a little brother who she called her “pupil”
 
 &emsp;&emsp;&emsp;&emsp; And he loved to sit by the sandbox 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; And worm his way into the dirt until only his but remained
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; And worm his way into the dirt until only his butt remained
 
-
+<br/><br/>
 
 Image: Landscape agate (‘Peak’) from Mexico, from the collection of Roger Caillois. First published in Caillois’s book ‘L’écriture des pierres’, 1970. 

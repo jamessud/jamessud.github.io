@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Iris
+title: Lucca
 description: 
 img: assets/img/for_writing/chile.jpg
 importance: 6
@@ -25,6 +25,6 @@ Lucca saw a bright red dress frolic up the stairs. He saw flashing white socks a
 He lost thought of the trees and fruits and cars and mercadores and flagpoles. They had become still again. Santiago was silent and waiting. The birds encircling Isadore began to calm, and one by one retreated back into the bright red dress. All was still again. She sat, legs crossed on the marble steps of the towering Santo Domingo, with her mandolin resting in the cloud of her lap, with the soft left fingers of her left hand holding the neck and pressing the strings, and her beautiful, tan, right hand covering her bosom and waiting a centimeter from the doubled strings. He stared at her fingers, slightly curled and hovering over the top of the soundboard…holding a baby. He stared at her index finger. It looked prepared and poised and like a hammer.
 She struck the string
 
-
+<br/><br/>
 
 Image: Untitled by Roberto Matta, ca. 1938. Colored wax crayon and lead pencil on paper. 

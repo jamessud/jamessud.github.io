@@ -13,6 +13,6 @@ you said
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and the glaciers melted
 
-
+<br/><br/>
 
 Image: Paysage de Montagne Avec Glacier by Alexandre Calame, ca. 1857-1862. Oil on Cardboard. 

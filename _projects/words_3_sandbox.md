@@ -66,6 +66,6 @@ and declare it
 
 &emsp;&emsp;&emsp;&emsp; “THE WASHINGTON MONUMENT”
 
-
+<br/><br/>
 
 Image: The Sandbox by Jimmie Trotter, 2012. Acrylic on canvas.

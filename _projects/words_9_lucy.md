@@ -17,6 +17,6 @@ A fluorescent light switched on, flowering into a visceral pedal rainbow of flav
 
 A click turned on a record and started it spinning, and a rush of sonar energy arose throughout her body, sending it shriveling, feeling as if the grooves of the record reached out sinew spider tentacles that grabbed every atom in the room and spun them in a coordinated dance with the turntable. The room diluted into a dystopian carnival of enchanted fake scary dark energy. It was a spaceship rocketing in oblivion that only spun so that life could have a little bit of gravity, but truly the only force that dominated the room was hecticity and multidimensional abstraction. Pablo Picasso himself stood in the corner and cubified every space and object as he stared at himself through the mirror canvasses of his art. The space was made of special state of matter, perhaps reflecting only information, perhaps verifying the truth that the whole universe is just some holograph of a two-dimensional shell. Perhaps Lucy was truly Lucifer for thinking she was ever real, or perhaps there is something to say for those meth-head crack addict schizophrenic bat-head artists who think the world isn't real and that everyone not on the astral plane is a delusional, penny-chasing goon.
 
-
+<br/><br/>
 
 Image: Detail from Floor of House of Leigh McCloskey. 2000s. 

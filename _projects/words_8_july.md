@@ -2,7 +2,7 @@
 layout: page
 title: Hot July 
 description: two poems
-img: assets/img/for_writing/geology.jpg
+img: assets/img/for_writing/cacti.jpg
 importance: 8
 category: words
 ---
@@ -11,7 +11,7 @@ And then we were all put in boxes...
 
 (Except for a couple wandering rebels who smoked hand-rolled cigarretes out of their mom’s Subarus and careened through the streets like charged-up billiard balls)
 
-<p><center> ~ * ~ </center></p>
+<p><center> –––––––– ~ * ~ –––––––– </center></p>
 
 The hotter July gets
 
@@ -27,10 +27,10 @@ We’re breathing cotton-mouthed cactus breath
 
 The outside air is sweating with over-boiled tension
 
-July is hotter than every
+July is hotter than ever
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; And we open our windows for air
 
-
+<br/><br/>
 
 Image: Landscape with Cacti 1 by Diego Rivera, 1931. Oil on canvas.

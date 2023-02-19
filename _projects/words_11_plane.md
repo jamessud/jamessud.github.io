@@ -19,7 +19,6 @@ And the red plane radio would play –
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; You can’t pick very much cotton!”
 
-
 And he would spill some chicken tandoori on his leather vest and have salt on mustache.
 
 &emsp;&emsp;&emsp;&emsp; And on a nextdoor fielded stoney graveyard, where plants grow where you think they shouldn’t, the weeds are padded flat by footsteps. By a little rock in the family home his ashram is never alone. It always smells like lavender and frankincense and burfi and halva. A coin that fell out of his tan cotton pockets hasn’t been found under curling pads of grass.
@@ -27,6 +26,6 @@ And he would spill some chicken tandoori on his leather vest and have salt on mu
 &emsp;&emsp;&emsp;&emsp; And the soft padded grass where the red paint plane flew to
  a dream from the mingling morning spices of the family home is still unfolding
 
-
+<br/><br/>
 
 Image: Red Biplane by Dennis Ziemienski. Oil on canvas, 

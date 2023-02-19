@@ -43,9 +43,10 @@ They made out and she finally didn't have to deal with too much tongue.
 While fungi and insects and bacteria devoured his tongue in a nearby landfill, a factory defunct flat screen television was thrown in the pile and a burst of excess electrons sparked, igniting stocks of drenching methane trapped under the waste. The explosion and ensuing fire wiped out three thousand five hundred and sixty-seven square feet of landfill and totally wrecked the environment. The landfill company hadn’t measured the gas levels in two weeks. The construction worker in the truck that dropped the telly suffered first degree burns but turned out as fine as a depressed laborer can be. Roughly one hundred and ninety trillion single-celled bacteria, fifty-eight million detritus-feeding fungi, and nine thousand insects spanning thirty-two species vaporized on contact. Only the cockroaches walked around hard shelled, sending out pheromones pleading for reproduction. The local bureaucrats freaked out about the public response and fired the directors of Waste and Pollution Management. 
 
 <p><center> ~ * ~ </center></p>
+<br/>
 
 Rocking back and forth in the same chair his grandmother used to cradle him, the man traces his life like a child searching a map. Eight-eight years ago his grandmother had passed, and for eighty years the chair waited for him. His new wife sits next to him most every afternoon, her head tilted back, open to the sky. She has never heard his tongue form t’s and z’s and r’s, but she listens to the way the old chair creeks, noticing the tempo of the chair, when he almost tips himself over a bit too far, and when the bugs and critters scurry under the rockers, towards their two-dimensional afterlife, prostrated between cedar wood and linoleum tile.
 
-
+<br/><br/>
 
 Image: Landfill by Ricardo Laranjo, 2011. Oil on Canvas. 
