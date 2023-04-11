@@ -7,6 +7,8 @@ importance: 13
 category: words
 ---
 
+##### Hill Dusty
+
 *Through a dusty film camera, hand-held,*
 
 *projected on beige walls,*
@@ -41,7 +43,7 @@ stretching out his knotty hair behind his zooming figure
 
 *We all lean forward*
 
-	*to balance out the acceleration.*
+&emsp;&emsp;&emsp;&emsp; *to balance out the acceleration.*
 
 <br/>
 
@@ -77,11 +79,12 @@ and unleashes the bird.
 
 &emsp;&emsp;&emsp;&emsp;  *knowing our hero can fly.*
 
-<br/>
 
 <br/>
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
+
+##### Gnats
 
 in those summers it almost seemed like forgoing sunscreen and 
 

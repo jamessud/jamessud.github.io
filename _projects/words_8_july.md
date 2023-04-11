@@ -7,6 +7,8 @@ importance: 8
 category: words
 ---
 
+##### Untitled
+
 And then we were all put in boxes... 
 
 (Except for a couple wandering rebels who smoked hand-rolled cigarretes out of their mom’s Subarus and careened through the streets like charged-up billiard balls)
@@ -14,6 +16,8 @@ And then we were all put in boxes...
 <br/>
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
+
+##### Hot July
 
 The hotter July gets
 
@@ -38,6 +42,7 @@ July is hotter than ever
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
 
+##### East Palo Alto
 
 Police vans swarm
 

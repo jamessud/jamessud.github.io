@@ -9,27 +9,27 @@ category: words
 
 Colors change shape
 
-&emsp;&emsp;&emsp;&emsp; change size
+&emsp;&emsp;&emsp;&emsp; change size.
 
-these days I only want you to see me
+These days I only want my form to shimmer
 
-&emsp;&emsp;&emsp;&emsp; underwater
+&emsp;&emsp;&emsp;&emsp; underwater.
 
-these days I want to speak with the voice of a muddy
+These days I want to speak with the voice of a muddy
 
-&emsp;&emsp;&emsp;&emsp; bass clarinet
+&emsp;&emsp;&emsp;&emsp; bass clarinet.
 
 I sit, take off my glasses
 
-&emsp;&emsp;&emsp;&emsp; and rub glitter into my eye
+&emsp;&emsp;&emsp;&emsp; and rub glitter into my eye.
 
-my arches are strained
+My arches are strained,
 
 my feet are large and 
 
 &emsp;&emsp;&emsp;&emsp; I’m feeling these muscles and wondering
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; who I’ve sculpted
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; who I’ve sculpted.
 
 
 

@@ -2,10 +2,12 @@
 layout: page
 title: Like Ice in the Sun
 description: A collection of poems from Illinois and Wisconsin, winter 2022-2023
-img: assets/img/for_writing/plane.jpg
+img: assets/img/for_writing/winter.jpg
 importance: 12
 category: words
 ---
+
+##### Untitled
 
 I am learning 
 
@@ -16,6 +18,8 @@ I am learning
 <br/>
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
+
+##### Untitled
 
 the air is frigid
 
@@ -41,6 +45,8 @@ spark direct to my nerves,
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
 
+##### Tango
+
 These nights I hold hands with the sun
 
 Two hands enlocked, one arm bent
@@ -55,6 +61,8 @@ She gives me a twirl
 <br/>
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
+
+##### The Dells
 
 the highways are not smooth
 
@@ -74,8 +82,7 @@ and washed out clouds
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
 
-(*vigil*)
-<br/>
+##### Vigil
 
 Palms are open
 
@@ -169,4 +176,4 @@ we turn to our neighbors to relight the flame
 
 <br/><br/>
 
-Image: Red Biplane by Dennis Ziemienski. Oil on canvas, 
+Image: Barn Near Columbia, MO by Marc Bonhe, 10 x 12 inches, oil on panel
