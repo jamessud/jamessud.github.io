@@ -19,7 +19,7 @@ Oliver was a child of five years, a member of the first generation of boys that 
 
 Inside a train car, wide-eyed Oliver rubbed his index finger on the metal walls and narrow windows. His legs wriggled and his father felt proud. 
 
-Looking at a spreadsheet cell I feel like I am peering through the cloudy, smudged, narrow window of Oliver’s train car. The faces in the car are obscured by the smoke and ash that already rises around them, just as the steam and smoke begins blasting out of the engine.  
+Looking at a spreadsheet cell I feel like I am peering through the cloudy, smudged, narrow window of Oliver’s train car. The faces in the car are obscured by the smoke and ash that already rises around them, just as steam begins blasting and billowing out of the engine.  
 
 
 <br/><br/>
