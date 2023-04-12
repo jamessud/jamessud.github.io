@@ -42,4 +42,4 @@ category: words
 
 <br/><br/>
 
-Image: Rain, Steam and Speed – The Great Western Railway by Joseph Mallord William Turner. 	1844. Oil on Canvas. National Gallery, London
+Image: Mexican Beach Boys by Wayne Thiebaud. 1961. Oil on Canvas.

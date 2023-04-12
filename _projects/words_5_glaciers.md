@@ -23,11 +23,11 @@ you said
 #### Cadmium Dust
 <br/>
 
-Four months I’ve been mining this charred soil
+Four months I’ve been mining this charred soil,
 
-Looking for a safe box
+looking for a safe box,
 
-In case it holds a family photo 
+&emsp;&emsp;&emsp;&emsp; in case it holds a family photo. 
 
 
 <br/><br/>
