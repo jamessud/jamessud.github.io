@@ -1,8 +1,8 @@
 ---
 layout: page
-title: M/F
+title: F/M
 description: 
-img: assets/img/for_writing/mf_alt.jpg
+img: assets/img/for_writing/fm_alt.jpg
 importance: 15
 category: words
 ---
