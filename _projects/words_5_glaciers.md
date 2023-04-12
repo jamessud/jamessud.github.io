@@ -10,11 +10,11 @@ category: words
 #### The Glaciers
 <br/>
 
-you said
+when you said
 
 &emsp;&emsp;&emsp;&emsp; “we’re a family”
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and the glaciers melted
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; the glaciers melted
 
 <br/>
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
