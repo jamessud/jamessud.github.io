@@ -7,7 +7,8 @@ importance: 8
 category: words
 ---
 
-##### Untitled
+#### Untitled
+<br/>
 
 And then we were all put in boxes... 
 
@@ -17,7 +18,8 @@ And then we were all put in boxes...
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
 
-##### Hot July
+#### Hot July
+<br/>
 
 The hotter July gets
 
@@ -42,7 +44,8 @@ July is hotter than ever
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
 
-##### East Palo Alto
+#### East Palo Alto
+<br/>
 
 Police vans swarm
 

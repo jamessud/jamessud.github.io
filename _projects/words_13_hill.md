@@ -8,6 +8,7 @@ category: words
 ---
 
 #### Hill Dusty
+<br/>
 
 *Through a dusty film camera, hand-held,*
 
@@ -85,6 +86,7 @@ and unleashes the bird.
 <br/>
 
 #### Gnats
+<br/>
 
 in those summers it almost seemed like forgoing sunscreen and 
 

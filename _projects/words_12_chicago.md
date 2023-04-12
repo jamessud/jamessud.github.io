@@ -7,7 +7,8 @@ importance: 12
 category: words
 ---
 
-##### Untitled
+#### Untitled
+<br/>
 
 I am learning 
 
@@ -19,7 +20,8 @@ I am learning
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
 
-##### Untitled
+#### Untitled
+<br/>
 
 the air is frigid
 
@@ -45,7 +47,8 @@ spark direct to my nerves,
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
 
-##### Tango
+#### Tango
+<br/>
 
 These nights I hold hands with the sun
 
@@ -62,7 +65,8 @@ She gives me a twirl
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
 
-##### The Dells
+#### The Dells
+<br/>
 
 the highways are not smooth
 
@@ -82,7 +86,8 @@ and washed out clouds
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
 
-##### Vigil
+#### Vigil
+<br/>
 
 Palms are open
 
