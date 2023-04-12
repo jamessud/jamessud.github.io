@@ -2,7 +2,7 @@
 layout: page
 title: Hill Dusty and Gnats
 description: Two poems
-img: assets/img/for_writing/hill.jpg
+img: assets/img/for_writing/hill_alt.jpg
 importance: 13
 category: words
 ---
