@@ -23,7 +23,7 @@ She had a little brother who she called her “pupil.”
 
 &emsp;&emsp;&emsp;&emsp; And he loved to sit by the sandbox, 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and worm his way into the dirt until only his butt remained
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and worm his way into the dirt until only his butt remained.
 
 <br/><br/>
 

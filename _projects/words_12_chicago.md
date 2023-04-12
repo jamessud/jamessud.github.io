@@ -14,7 +14,7 @@ I am learning
 
 &emsp;&emsp;&emsp;&emsp; to be slippery
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;like ice in the sun
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; like ice in the sun
 
 <br/>
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
@@ -23,15 +23,15 @@ I am learning
 #### Untitled
 <br/>
 
-the air is frigid
+the air is frigid,
 
-so sitting on this concrete bench my thighs feel wet
+so sitting on this concrete bench my thighs feel wet.
 
 <br/>
 
-I feel my flesh is no warmth
+I feel my flesh is no warmth,
 
-my hand is a bundle of bones
+my hand is a bundle of bones.
 
 <br/>
  
@@ -39,9 +39,9 @@ the windchills
 
 spark direct to my nerves,
 
-&emsp;&emsp;&emsp;&emsp; wrapped around tendon
+&emsp;&emsp;&emsp;&emsp; wrapped around tendon,
 
-&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; wrapped around bone
+&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; wrapped around bone.
 
 <br/>
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
@@ -50,15 +50,15 @@ spark direct to my nerves,
 #### Tango
 <br/>
 
-These nights I hold hands with the sun
+These nights I hold hands with the sun.
 
 Two hands enlocked, one arm bent
 
-&emsp;&emsp;&emsp;&emsp; one straight
+&emsp;&emsp;&emsp;&emsp; one straight.
 
-She gives me a twirl
+She gives me a twirl,
 
-&emsp;&emsp;&emsp;&emsp; and I wake up dizzily in the morning
+&emsp;&emsp;&emsp;&emsp; and I wake up dizzily in the morning.
 
 
 <br/>
@@ -68,19 +68,19 @@ She gives me a twirl
 #### The Dells
 <br/>
 
-the highways are not smooth
+the highways are not smooth,
 
 and through the window there are house-boxes
 
-&emsp;&emsp;&emsp;&emsp; with torn roofs
+&emsp;&emsp;&emsp;&emsp; with torn roofs,
 
-folded between layers of blanched dead winter corn
+folded between layers of blanched dead winter corn,
 
-&emsp;&emsp;&emsp;&emsp; barren greyscale trees
+&emsp;&emsp;&emsp;&emsp; barren greyscale trees,
 
-and washed out clouds
+and washed out clouds,
 
-&emsp;&emsp;&emsp;&emsp; drained of blue
+&emsp;&emsp;&emsp;&emsp; drained of blue.
 
 <br/>
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
