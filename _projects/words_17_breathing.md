@@ -7,10 +7,13 @@ importance: 17
 category: words
 ---
 
-&emsp;&emsp;&emsp;&emsp; The air today made Nika anxious. By now he knew that breathing in water raises the heartbeat.
+The air today made Nika anxious. By now he knew that breathing in water raises the heartbeat.
+
 &emsp;&emsp;&emsp;&emsp; He learned, from being spry and sun-stroked, held undersea by unrelenting sets of cavernous waves.
+
 &emsp;&emsp;&emsp;&emsp; He learned, from being a boy and hanging out with boys. 
-&emsp;&emsp;&emsp;&emsp; As his heart began to rush, he closed his eyes and breathed slowly through his nose. His head drooped and a memory began to rise.
+
+As his heart began to rush, he closed his eyes and breathed slowly through his nose. His head drooped and a memory began to rise.
 
 <br/>
 <p><center>  ~ * ~  </center></p>
