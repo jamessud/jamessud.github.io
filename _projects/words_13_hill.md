@@ -2,7 +2,7 @@
 layout: page
 title: Hill Dusty and Gnats
 description: Two poems
-img: assets/img/for_writing/plane.jpg
+img: assets/img/for_writing/hill.jpg
 importance: 13
 category: words
 ---
@@ -100,4 +100,4 @@ would do for us what
 
 <br/><br/>
 
-Image: Red Biplane by Dennis Ziemienski. Oil on canvas, 
+Image: Screenshot from GX1000: Best of Sean Greene's Hill Bombs by Thrasher Magazine. 

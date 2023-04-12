@@ -27,4 +27,4 @@ And he would spill some chicken tandoori on his leather vest and have salt on mu
 
 <br/><br/>
 
-Image: Red Biplane by Dennis Ziemienski. Oil on canvas, 
+Image: Red Biplane by Dennis Ziemienski. Oil on canvas.

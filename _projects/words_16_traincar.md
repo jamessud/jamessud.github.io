@@ -2,7 +2,7 @@
 layout: page
 title: The Railroads
 description: 
-img: assets/img/for_writing/plane.jpg
+img: assets/img/for_writing/train.jpg
 importance: 16
 category: words
 ---
@@ -22,8 +22,6 @@ Inside a train car, wide-eyed Oliver rubbed his index finger on the metal walls 
 Looking at a spreadsheet cell I feel like I am peering through the cloudy, narrow window of Oliver’s train car. The faces in the car are obscured by the smoke and ash that already rises around them, just as the steam and smoke begins blasting out of the engine.  
 
 
-
-
 <br/><br/>
 
-Image: Red Biplane by Dennis Ziemienski. Oil on canvas, 
+Image: Rain, Steam and Speed – The Great Western Railway by Joseph Mallord William Turner. 	1844. Oil on Canvas. National Gallery, London

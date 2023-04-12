@@ -2,7 +2,7 @@
 layout: page
 title: Security
 description: 
-img: assets/img/for_writing/plane.jpg
+img: assets/img/for_writing/security_alt.jpg
 importance: 14
 category: words
 ---
@@ -31,4 +31,4 @@ So upstairs the barometer kept tweaking up. The bass still seeped out of the wal
 
 <br/><br/>
 
-Image: Red Biplane by Dennis Ziemienski. Oil on canvas, 
+Image: Screenshot of me at Gnashing Art Show 2016 from one of Jessica Borchardt's old Instagrams.

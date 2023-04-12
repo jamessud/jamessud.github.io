@@ -2,7 +2,7 @@
 layout: page
 title: M/F
 description: 
-img: assets/img/for_writing/plane.jpg
+img: assets/img/for_writing/mf_alt.jpg
 importance: 15
 category: words
 ---
@@ -35,4 +35,4 @@ my feet are large and
 
 <br/><br/>
 
-Image: Red Biplane by Dennis Ziemienski. Oil on canvas, 
+Image: God Shiva as Lord Who Is Half-Male, Half-Female (Ardhanarishvara). Tamil Nadu, India. 14th century. Granite. Art Institute of Chicago. Photo by me.
