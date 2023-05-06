@@ -3,7 +3,7 @@ layout: page
 title: The Welder
 description: 
 img: assets/img/for_writing/tenor.jpg
-importance: 2
+importance: 1
 category: words
 ---
 
