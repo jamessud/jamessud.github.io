@@ -1,6 +1,6 @@
 ---
 layout: page
-title: F/M
+title: FM
 description: 
 img: assets/img/for_writing/fm_alt.jpg
 importance: 15
