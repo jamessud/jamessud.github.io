@@ -40,16 +40,27 @@ Mistaken, for a child of no more than ten years now stumbles into our shed curio
 Our welder sighs internally, resenting the intrusion of the girl’s curiosity. He reluctantly drops his funnel and turns to her. Watch how his face seems at a loss without the comforts of his fantastic delusions, our welder, is perfectly broken by a mere reminder of the outside world... 
 
 “I’m working on…,” he says with extreme discomfort, “my new art project.”
+
 “What’s *this?!*,” the girl clamors in a defiant tone as she points toward the ground. “You just made a big mess. You just destroyed a saxophone. It’s ugly!”
+
 “Hey! This is my art! Like how you color your coloring books or sing or dance,” our welder responds, but we can see that everything he says reassures himself more than the girl.
+
 “*I* don’t do coloring books.”
+
 “Well, don’t you like to fingerpaint, or draw?”
+
 “My drawings are way more pretty than this. And its stinky in here, you’re gonna die from all this gas!”
+
 Our welder is shocked by the girl's bluntness. We now can now see the insecurity in his face. He stares, red-faced at her, breathing heavily. His tone becomes desperate and pleads once more. 
+
 “Well maybe, if I die...” he pauses to think. “Someone else will come along and see this. Maybe they’ll think of something they haven’t thought of or feel something they haven’t felt.” he says uncertainly. 
+
 “This just looks weird.”
+
 Our welder now feels all the sickly manifestations of the toxic gasses he works with. His temples start to burn and shortness of breath aches his fragile lungs. He is afraid to show this to the child, and instead succumbs once again to his chaotic fantasies.
+
 “But this piece raises a question” – his voice grows tinny – “’cause if I take this saxophone, break it, melt it into all these little pieces, and spread it all over this canvas, is it still a saxophone anymore?” he inquires.
+
 “Of course not, you broke it!” she exclaims in retort.
 
 Our welder now ignores the raging swelling of his lungs and stifling breath. “So maybe this makes somebody think: if that saxophone can be broken down, melted, and scattered into something completely different, couldn’t that be with everything, with all the trees and rocks, with you and me?” Our welder has embarked on a quixotical journey of words, and his vision narrows, blocking out the girl as she listens. “You see, nothing is permanent, not you, not me, not the Earth, not the sun, not the universe. It is all just matter flung from state to state, object to object, a cosmic dance of matter that we cannot begin to comprehend!”
