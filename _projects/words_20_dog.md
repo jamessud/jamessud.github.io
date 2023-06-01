@@ -81,7 +81,7 @@ Mini once lay snugly and warmly in the sun of a backyard he shared with a past p
 
 &emsp;&emsp;&emsp;&emsp; “You’re just happy, you would do anything as long as I’m there.”
 
-Deceived and disoriented by the trickeries of life, he smiled. 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Deceived and disoriented by the trickeries of life, he smiled. 
 
 <br/>
 <p><center>  ~ * ~  </center></p>
