@@ -29,4 +29,4 @@ These water droplets entered through my nose and the heat made them expand in my
 
 <br/><br/>
 
-Image: Claude Monet, The Houses of Parliament, Sunset. 1904, Oil mural on canvas. Musée d'Orsay, Paris, France
+Image: Claude Monet, The Houses of Parliament, Sunset. 1904, Oil on canvas. Musée d'Orsay, Paris, France
