@@ -2,7 +2,7 @@
 layout: page
 title: Devy
 description: 
-img: assets/img/for_writing/dev.jpg
+img: assets/img/for_writing/dev.jpeg
 importance: 23
 category: words
 ---

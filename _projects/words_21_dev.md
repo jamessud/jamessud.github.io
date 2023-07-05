@@ -2,7 +2,7 @@
 layout: page
 title: Dev
 description: 
-img: assets/img/for_writing/dev.jpg
+img: assets/img/for_writing/dev.jepg
 importance: 21
 category: words
 ---
