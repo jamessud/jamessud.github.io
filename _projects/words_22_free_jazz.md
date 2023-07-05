@@ -23,7 +23,6 @@ The crowd claps with soaked hands and eyes droop. In the back a young boy faintl
 
 
 
-
 <br/><br/>
 
 Image: Wassily Kandinsky, Composition VII. 1913, Oil on canvas. Tretyakov Gallery, Moscow, Russia

@@ -2,7 +2,7 @@
 layout: page
 title: Dev
 description: 
-img: assets/img/for_writing/dev.jepg
+img: assets/img/for_writing/dev.jpeg
 importance: 21
 category: words
 ---
@@ -14,7 +14,7 @@ Inside with water droplets suspended in air pushing thirty C.
 Back flat on the itchy carpet floor, stretching my right hand over my body to the left, bicep on forehead sticky, I need the weight.
 Can’t even pick myself up, get to the window. 
 
-Outside its dust anyway, smog or wildfire smoke or – .
+Outside its dust anyway, smog or wildfire smoke or ...
 
 The ceiling fan is just droning like –
 
