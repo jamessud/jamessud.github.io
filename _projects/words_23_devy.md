@@ -9,21 +9,21 @@ category: words
 
 The cottonwood drooped and decayed onto dark prarie soil. The cottonwood bush was drenched, from a day of rain.
 
-A question that often floated to Devy's mind 
+A question that often floated to Devy's mind: 
 
 
 &emsp;&emsp;&emsp;&emsp; "Are they mad at me?"
 
-and less often –
+And less often:
 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Am I mad at *them*?"
 
-Devy drooped like the wet cottonwood. The dark brown prarie soil first cooled their knees, then the finger, then the forehead. The rains had just ceased. 
+Devy drooped like the wet cottonwood. The dark brown prarie soil first cooled their knees, then their fingers, then the forehead. The rains had just ceased. 
 
-Devy felt a woozy season descending, with time mediated by a coarse fabric that bound them by the limbs. Fibrous, so when tehy squirmed the friction cut at the soft skin of their palms and wrist. The season was intertwining, pulling bodies closer together, shrinking space. It tightened and wove like a skillful stitch.
+Devy felt a woozy season descending, with time mediated by a coarse fabric that bound them by the limbs. Fibrous, so when they squirmed, the friction cut at the soft skin of their palms and wrist. The season was intertwining, pulling bodies closer together, shrinking space. It tightened and wove like a skillful stitch.
 
-With mud on their forhead Devy, on knees and hands, arched their back and let the emerging sun pour into their dewy eyes, and let out air softly through their lungs. 
+With mud on their forhead, Devy, on knees and hands, arched their back and let the emerging sun pour into their dewy eyes, and let out air softly through their lungs. 
 
 <br/><br/>
 

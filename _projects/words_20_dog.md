@@ -39,9 +39,9 @@ Perhaps like digestion, the trickeries of life dissolved that dog from Mini’s 
 
 The ten million registered in Mini’s head first.
 
-&emsp;&emsp;&emsp;&emsp; “Yes.”
+&emsp;&emsp;&emsp;&emsp; “Yes,”
 
-And the bodies shook, gasped, and mumbled.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and the bodies shook, gasped, and mumbled.
 
 &emsp;&emsp;&emsp;&emsp; “That’s a human body! Aren’t you supposed to be vegan?”
 
