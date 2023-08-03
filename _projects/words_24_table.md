@@ -19,7 +19,7 @@ I’m a master of the bendable brass clasps and holes.
 
 I’m a master of scanning through the curriculum vitae.
 
-I’m the Miles Davis of life evaluations
+I’m the Miles Davis of life evaluations.
 
 I hear the empty spaced in unfulfilled lives, the missing paragraph on the position at CERN, the sideways-to-backward scribbles on a Subway aioli-stained napkin making waves in the algorithmic world of quantum computing.
 
@@ -27,7 +27,7 @@ The most meaningful envelope to me contains the most space, where I can extrapol
 
 <br/>
 
-&emsp;&emsp;&emsp;&emsp; “This one seems interesting”
+&emsp;&emsp;&emsp;&emsp; “This one seems interesting,”
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; says my colleague to my left.
 

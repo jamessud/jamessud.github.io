@@ -7,7 +7,7 @@ importance: 25
 category: words
 ---
 
-Haimoreleilee runs like his feet are kegs of dynamite and his arms are a hang glider
+Haimoreleilee runs like his feet are kegs of dynamite and his arms are a hang glider,
 
 &emsp;&emsp;&emsp;&emsp; and like he saw the rebirth through his elephant eyes.
 
@@ -19,9 +19,9 @@ He fastened it on his his smooth forehead,
 
 &emsp;&emsp;&emsp;&emsp; squeezing out a thumb-sized bubble of sweat,
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; the day he hear his father declare he was at war with himself, cutting off the tip of his nose, ears, fingers, and toes, pacifying and subserving himself.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; the day he heard his father declare he was at war with himself, cutting off the tip of his nose, ears, fingers, and toes, pacifying and subserving himself.
 
-The sword hands above their kitchen,
+The sword hangs above their kitchen,
 
 &emsp;&emsp;&emsp;&emsp; along saucepans and large metal spoons
 
