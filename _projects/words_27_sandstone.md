@@ -9,7 +9,7 @@ category: words
 
 In summer nights
 
-of San Diego
+of Baja California
 
 &emsp;&emsp;&emsp;&emsp; you need no blanket
 
@@ -25,7 +25,7 @@ They sat
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; sandstone cliffs.
 
-	They didn’t need blankets,
+&emsp;&emsp;&emsp;&emsp; They didn’t need blankets,
 
 &emsp;&emsp;&emsp;&emsp; their faces opened up to the black Pacific Ocean
 
@@ -37,33 +37,37 @@ He asked him how far he could spit
 
 &emsp;&emsp;&emsp;&emsp; his peppermint gum.
 
-He asked him if he wanted to bet.
+He returned:
+
+&emsp;&emsp;&emsp;&emsp; Let's bet?
 
 He told him to set the stakes.
 
 He said if he makes it past the rocks below,
 
-you kiss me.
+&emsp;&emsp;&emsp;&emsp; you kiss me.
 
 If I don’t,
 
-I kiss you.
+&emsp;&emsp;&emsp;&emsp; I kiss you.
 
 He smiled and said 
 
-lets play the game.
+&emsp;&emsp;&emsp;&emsp; lets play.
 
 <br/>
 
 And it was dark,
 
-so the game became a silly slip
+so the landing spot was cloudy,
 
-&emsp;&emsp;&emsp;&emsp; towards a kiss
+&emsp;&emsp;&emsp;&emsp; and the game became a silly slip
 
-sprinkled with salt
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; towards a kiss
 
-and artificial peppermint.
+&emsp;&emsp;&emsp;&emsp;sprinkled with salt
+
+&emsp;&emsp;&emsp;&emsp;and artificial peppermint.
 
 
 <br/><br/>
