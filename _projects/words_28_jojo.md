@@ -34,14 +34,13 @@ The flower petals were brought in. They were gold and pink and encircled her kne
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *My husband has left my body!*”
 
-
+<p><center> ~ * ~ </center></p>
 
 <br/><br/>
 Song Inspiration: Kaun Thagwa Nagariya by Kabir (1398/1440-1448/1518)
 
-Song description from Minu Pasupathi, M.F.A. Director of University of Chicago South Asian Music Ensemble and founder of Akshaya Music Academy and Maalok from [Boloji.com](https://www.boloji.com/mystic-songs-details/12/kaun-thagwa-nagaria-lutal-ho).
+Song description from Minu Pasupathi, M.F.A. Director of University of Chicago South Asian Music Ensemble and founder of Akshaya Music Academy and Maalok from [Boloji.com](https://www.boloji.com/mystic-songs-details/12/kaun-thagwa-nagaria-lutal-ho):
 
-<br/>
 
 Kabir is another favorite saint-composer in South Asia, and his vision of the essential unity of all human beings seems quite aligned with Gandhi’s humanist message. We also choose a Kabir song here because his enigmatic poems are uniquely cherished as Hindu bhajans, Sufi Muslim qawwalis, and also appear in the Sikh devotional scripture. 
  

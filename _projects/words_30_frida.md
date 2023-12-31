@@ -20,6 +20,7 @@ The sunrise here must be thick brush strokes of blue wall and bougainvillea leav
 &emsp;&emsp;&emsp;&emsp; the way oils don’t blend to water,
 
 &emsp;&emsp;&emsp;&emsp; and over time ducks turn to stone,
+
 &emsp;&emsp;&emsp;&emsp; and the paints on the pallet evaporate their pigment and become grey.
 
 <br/>
@@ -44,7 +45,7 @@ In the middle of the garden the small fountain holds ducks which swim so they do
 
 &emsp;&emsp;&emsp;&emsp; And by a bobbed head and bobbed dress they are fed so they don’t turn to liquid,
 
-&emsp;&emsp;&emsp;&emsp; where through the drain they would be reborn as pigment.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; where through the drain they would be reborn as pigment.
 
 And on the bed lies two pieces of a body connected by a spine. The guests converse with each piece, which converse with each other,
 
