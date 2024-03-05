@@ -3,7 +3,7 @@ layout: page
 title: Dogs
 description: 
 img: assets/img/for_writing/dog_cropped.jpg
-importance: 1
+importance: 6
 category: words
 ---
 
