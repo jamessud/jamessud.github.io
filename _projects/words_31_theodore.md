@@ -45,7 +45,7 @@ Straight dreams about a man with long hair.
 
 Halfway across the bridge he remembered suspension bridges, what happens at resonant frequency. When the pace of steps align with the natural harmonies of the cables. That they *shake*.
 
-The bridge is stone. Across the Mississippi. It’s 8AM. But his head isn’t staying between his thighs. 
+This bridge is stone. Across the Mississippi. It’s 8AM. But his head isn’t staying between his thighs. 
 
 &emsp;&emsp;&emsp;&emsp; “WHITE BOY”
 
