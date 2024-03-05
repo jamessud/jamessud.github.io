@@ -3,7 +3,7 @@ layout: page
 title: The Edelweiss and the Lotus
 description:
 img: assets/img/for_writing/hahmez_logo.jpg
-importance: 2
+importance: 20
 category: words
 ---
 

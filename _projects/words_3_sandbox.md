@@ -65,7 +65,7 @@ pause for a minute in reverent
 
 and declare it
 
-&emsp;&emsp;&emsp;&emsp; “THE WASHINGTON MONUMENT”
+&emsp;&emsp;&emsp;&emsp; “THE WASHINGTON MONUMENT.”
 
 <br/><br/>
 

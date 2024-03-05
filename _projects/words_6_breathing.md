@@ -3,7 +3,7 @@ layout: page
 title: To Breathe Water
 description: 
 img: assets/img/for_writing/breathing.jpg
-importance: 17
+importance: 6
 category: words
 ---
 

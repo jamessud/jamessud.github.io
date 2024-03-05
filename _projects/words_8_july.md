@@ -71,7 +71,7 @@ Whatsapp and Nextdoor chats ignite
 
 &emsp;&emsp; in the rugged streets of East Palo Alto,
 
-&emsp;&emsp;&emsp;&emsp; "the Kabul of Silicon Valley"
+&emsp;&emsp;&emsp;&emsp; "the Kabul of Silicon Valley."
 
 
 <br/><br/>

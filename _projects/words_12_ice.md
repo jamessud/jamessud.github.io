@@ -14,7 +14,7 @@ I am learning
 
 &emsp;&emsp;&emsp;&emsp; to be slippery
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; like ice in the sun
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; like ice in the sun.
 
 <br/>
 <p><center> –––––––– ~ * ~ –––––––– </center></p>

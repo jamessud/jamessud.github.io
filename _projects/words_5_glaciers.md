@@ -14,7 +14,7 @@ when you said
 
 &emsp;&emsp;&emsp;&emsp; “we’re a family”
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; the glaciers melted
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; the glaciers melted.
 
 <br/>
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
