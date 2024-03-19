@@ -60,4 +60,4 @@ So he turns on his phone, puts the headphones on.
 
 <br/><br/>
 
-Image: Alternative version of album artwork for My Beautiful Dark Twisted Fantasy (Music Album by Ye, fka Kanye West), George Condo. Paint/Digital, 2020. 
+Image: Alternative version of album artwork for My Beautiful Dark Twisted Fantasy (Music Album by Ye, fka Kanye West), George Condo. Paint/Digital, 2010. 
