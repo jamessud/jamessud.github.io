@@ -86,6 +86,8 @@ Americanah, 2013. Chimamanda Ngozi Adichie, United States
 
 Invisible Man, 1952. Ralph Ellison, United States
 
+Things Fall Apart, 1958. Chinua Achebe, Nigeria
+
 <p><center> ~ * ~ </center></p>
 
 *Native Authors*
@@ -122,9 +124,13 @@ Slaughterhouse-Five, or, The Children's Crusade: A Duty-Dance with Death, 1969. 
 
 One Hundred Years of Solitude, 1967. Gabriel García Márquez, Colombia 
 
-Steer Towards Rock, 2008. Fae Myenne Ng
+Steer Towards Rock, 2008. Fae Myenne Ng, United States
 
 Pachinko, 2017. Min Jin Lee, South Korea, United States
+
+Dumb Luck, 1936. Vũ Trọng Phụng, Vietnam
+
+
 
 To Read:
 
@@ -155,6 +161,9 @@ The Story of My Experiments with Truth, 1948. Mohandas (Mahatma) Gandhi, India
 Indira Gandhi, A Biography, 1995. Pupul Jayakar, India
 
 The Dead Are Arising: The Life of Malcolm X, 2020. Les Payne and Tamara Payne, United States
+
+The Short and Tragic Life of Robert Peace, 2015. Jeff Hobbs, United States
+
 
 To Read:
 
