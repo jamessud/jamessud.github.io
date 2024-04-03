@@ -16,9 +16,36 @@ I am learning
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; like ice in the sun.
 
+
 <br/>
 <p><center> –––––––– ~ * ~ –––––––– </center></p>
 <br/>
+
+#### Rock Slides
+<br/>
+
+In my hometown
+
+&emsp;&emsp;&emsp;&emsp; the sandstone and limestone cliffs lean over the shoreline,
+
+undercut by windswells and the king tide.
+
+Sometimes rocks would tumble downwards,
+
+&emsp;&emsp;&emsp;&emsp;and buttes would shear and fall.
+
+Here, now,
+
+&emsp;&emsp;&emsp;&emsp; windowed steel and concrete cliffs stand perfectly straight
+
+over the lakes edge.
+
+&emsp;&emsp;&emsp;&emsp; And sometimes people fall.
+
+<br/>
+<p><center> –––––––– ~ * ~ –––––––– </center></p>
+<br/>
+
 
 #### Untitled
 <br/>
@@ -177,31 +204,6 @@ Our fingers start to freeze
 
 we turn to our neighbors to relight the flame
 
-
-<br/>
-<p><center> –––––––– ~ * ~ –––––––– </center></p>
-<br/>
-
-#### Rock Slides
-<br/>
-
-In my hometown
-
-&emsp;&emsp;&emsp;&emsp; the sandstone and limestone cliffs lean over the shoreline,
-
-undercut by windswells and the king tide.
-
-Sometimes rocks would tumble downwards,
-
-&emsp;&emsp;&emsp;&emsp;and buttes would shear and fall.
-
-Here, now,
-
-&emsp;&emsp;&emsp;&emsp; windowed steel and concrete cliffs stand perfectly straight
-
-over the lakes edge.
-
-&emsp;&emsp;&emsp;&emsp; And sometimes people fall.
 
 
 <br/><br/>
