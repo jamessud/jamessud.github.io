@@ -3,7 +3,7 @@ layout: page
 title: To Breathe Water
 description: 
 img: assets/img/for_writing/breathing.jpg
-importance: 3
+importance: 13
 category: words
 ---
 
@@ -39,7 +39,7 @@ As his heart began to rush, he closed his eyes and breathed slowly through his n
 <p><center>  ~ * ~  </center></p>
 <br/>
 
-&emsp;&emsp;&emsp;&emsp; Nika’s head jostled upright. He noticed his temples were wet. He felt as if all those years ago, there were droplets of seawater his reflects couldn’t eject, that got stuck somewhere between his lungs and his gut, vibrating with the sticky moisture in the air.
+&emsp;&emsp;&emsp;&emsp; Nika’s head jostled upright. He noticed his temples were wet. He felt as if all those years ago, there were droplets of seawater his reflexes couldn’t eject, that got stuck somewhere between his lungs and his gut, vibrating with the sticky moisture in the air.
 
 
 

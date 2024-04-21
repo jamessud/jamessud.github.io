@@ -3,7 +3,7 @@ layout: page
 title: The Glaciers and Cadmium Dust
 description: two poems
 img: assets/img/for_writing/glacier.jpg
-importance: 5
+importance: 8
 category: words
 ---
 

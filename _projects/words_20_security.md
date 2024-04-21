@@ -3,7 +3,7 @@ layout: page
 title: Security
 description: 
 img: assets/img/for_writing/security_combo_alt.jpg
-importance: 14
+importance: 20
 category: words
 ---
 

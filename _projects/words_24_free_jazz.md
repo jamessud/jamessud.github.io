@@ -3,7 +3,7 @@ layout: page
 title: Free Jazz
 description: 
 img: assets/img/for_writing/jazz.jpg
-importance: 22
+importance: 24
 category: words
 ---
 

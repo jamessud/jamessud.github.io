@@ -3,7 +3,7 @@ layout: page
 title: Veg or Non-Veg, That Is the Question?
 description: 
 img: assets/img/for_writing/plane.jpg
-importance: 11
+importance: 19
 category: words
 ---
 

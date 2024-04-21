@@ -3,7 +3,7 @@ layout: page
 title: The Red Table
 description: 
 img: assets/img/for_writing/table.png
-importance: 24
+importance: 27
 category: words
 ---
 

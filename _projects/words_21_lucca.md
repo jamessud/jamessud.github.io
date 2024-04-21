@@ -3,7 +3,7 @@ layout: page
 title: Lucca
 description: 
 img: assets/img/for_writing/chile.jpg
-importance: 17
+importance: 21
 category: words
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Spiders
 description: 
 img: assets/img/for_writing/spiders.jpg
-importance: 10
+importance: 18
 category: words
 ---
 

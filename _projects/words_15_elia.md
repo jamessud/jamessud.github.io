@@ -3,7 +3,7 @@ layout: page
 title: Elia
 description: 
 img: assets/img/for_writing/elia.jpg
-importance: 29
+importance: 15
 category: words
 ---
 

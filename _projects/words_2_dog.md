@@ -3,7 +3,7 @@ layout: page
 title: Dogs
 description: 
 img: assets/img/for_writing/dog_cropped.jpg
-importance: 6
+importance: 2
 category: words
 ---
 
@@ -13,7 +13,7 @@ Under August blue sky, on a shining, manicured, grass plaza, Mini watched a swea
 <p><center>  ~ * ~  </center></p>
 <br/>
 
-Later that day Mini was walking his dog home from the plaza under the droning sun. Droopy-eyes, he followed the tug of the dog on the leash. It pulled him towards pungent grass patches in the sidewalk and backwards to dogs that strolled behind. Mini heard a yell:
+Later that day Mini was walking his dog home from the plaza under the droning sun. Droopy-eyed, he followed the tug of the dog on the leash. It pulled him towards pungent grass patches in the sidewalk and backwards to dogs that strolled behind. Mini heard a yell:
 
 &emsp;&emsp;&emsp;&emsp; “Mini!”
 
@@ -87,7 +87,7 @@ Mini once lay snugly and warmly in the sun of a backyard he shared with a past p
 <p><center>  ~ * ~  </center></p>
 <br/>
 
-The dog started eating raw foods, per a friend’s recommendation. The food came in a thick, crackling plastic bag. Inside were eight servings of frozen raw meat. Mini didn’t know what the mystery animal was. Every day a packet had to be thawed and split into breakfast and dinner. He never forgot to move the packet from the freezer to the fridge, and sometimes it was his chore to split the meat in two. The meat would be wet and soft – cold thawed flesh. While he prepared the meals, the dog would jump on his leg and dig in his nails. Mini would stop and turn his back to untrain the behavior. When the food was ready, Mini would make him sit, and when Mini placed the dish on the ground and released the command, the dog would instantaneously burst forth and bury his face in the dead cow, pig, or chicken, and the fats would coagulate on the whiskers by his snout and make it sticky, or the blood would dribble to the hair below his mouth and dry off to become crunchy. 
+The dog started eating raw foods, per a friend’s recommendation. The food came in a thick, crackling plastic bag. Inside were eight servings of frozen raw meat. Mini didn’t know what the mystery animal was. Every day a packet had to be thawed and split into breakfast and dinner. He never forgot to move the packet from the freezer to the fridge, and sometimes it was his chore to split the meat in two. The meat would be wet and soft – cold thawed flesh. While he prepared the meals, the dog would jump on his leg and dig in its nails. Mini would stop and turn his back to untrain the behavior. When the food was ready, Mini would make it sit, and when Mini placed the dish on the ground and released the command, the dog would instantaneously burst forth and bury its face in the dead cow, pig, or chicken, and the fats would coagulate on the whiskers by its snout and make it sticky, or the blood would dribble to the hair below its mouth and dry off to become crunchy. 
 
 <br/>
 <p><center>  ~ * ~  </center></p>
@@ -105,9 +105,7 @@ One time Mini was asked:
 
 In the time of this dog, Mini’s brother told him that some scientists in England classified what species are sentient and non-sentient, with a cut-off line somewhere between shark and lobster and clam. In his room Mini wondered what that meant. If he could eat plants, could he eat a mussel? He thought of his dog, and asked why he couldn’t be eaten; like a grape, a cricket, a cow? 
 
-Mini wondered why no human would eat his own body. If he died on a field, surely hyenas or vultures would find him. If he died in the sea, surely the tiger sharks or a school of fish would consume his flesh, and the seafloor detritus feeders would dissolve his hair, skin, and nails. 
-
-But no human would slice off his tender belly-fat, to sear on a barbeque with chimichurri sauce. He wouldn’t be packaged into eight servings of organic raw dog meat. He wondered how many serving he might be. He wondered if all his flesh would be in the same few packets, or if it all gets scrambled up, so many humans can be traced to one thick crinkling plastic zip-locked bag. 
+Mini wondered humans would never eat his body. If he died on a field, surely hyenas or vultures would find him. If he died in the sea, surely the tiger sharks or a school of fish would consume his flesh, and the seafloor detritus feeders would dissolve his hair, skin, and nails. But no human would slice off his tender belly-fat, to sear on a barbeque with chimichurri sauce. He wouldn’t be packaged into eight servings of organic raw dog meat. He wondered how many serving he might be. He wondered if all his flesh would be in the same few packets, or if it all gets scrambled up, so many humans can be traced to one thick crinkling plastic zip-locked bag. 
 
 And if they wanted his meat healthy, he couldn’t die from disease or old age. So he wondered how they would kill him, if he would die under the eye of a human or a machine. 
 

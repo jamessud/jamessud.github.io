@@ -3,7 +3,7 @@ layout: page
 title: Sandstone Cliffs
 description: 
 img: assets/img/for_writing/sandstone.jpg
-importance: 27
+importance: 10
 category: words
 ---
 
@@ -59,9 +59,9 @@ He smiled and said
 
 And it was dark,
 
-so the landing spot was cloudy,
+so the landing spot was shrouded,
 
-&emsp;&emsp;&emsp;&emsp; and the game became a silly slip
+&emsp;&emsp;&emsp;&emsp; and the game became a silly lean
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; towards a kiss
 

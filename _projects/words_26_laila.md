@@ -15,7 +15,7 @@ Laila found herself flattened
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; arched all over her,
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; massive and celestial,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; massive and imposing,
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; creased her eyebrows and frowned.
 
@@ -31,7 +31,7 @@ Til her landlord found her on one knee,
 
 &emsp;&emsp;&emsp;&emsp; nurturing,
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; put her hand on her shoulder opposite the knee
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; put his hand on the shoulder opposite the knee
 
 &emsp;&emsp;&emsp;&emsp; - set her tumbling thorugh a large large valley
 

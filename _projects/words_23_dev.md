@@ -3,7 +3,7 @@ layout: page
 title: Dev
 description: 
 img: assets/img/for_writing/dev.jpeg
-importance: 21
+importance: 23
 category: words
 ---
 
