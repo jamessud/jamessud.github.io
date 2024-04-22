@@ -7,6 +7,8 @@ importance: 40
 category: words
 ---
 
+Personal reading list. Organized first by genre (mainly fiction), second by area/people of origin, and third by authors who I choose to highlight. This isn't to ascribe more weight to the author's identity than the work itself. Especially in fiction, where imaginiation triumphs. But we notice mores emerge, where the author spends their time, or how much time they are willing to spend! This isn't all the books I've read, but all the ones I recommend. 
+
 ## Fiction
 
 Non-fiction's already outside!
@@ -16,6 +18,7 @@ Non-fiction's already outside!
 ### Italian Authors
 
 **Italo Calvino, 1923-1985**
+
 
 The Baron in the Trees, 1957
 
