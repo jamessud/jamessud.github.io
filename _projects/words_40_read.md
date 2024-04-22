@@ -7,10 +7,13 @@ importance: 40
 category: words
 ---
 
-### Fiction
+## Fiction
 
+Non-fiction's already outside!
 
-##### Italian Authors
+<br/>
+
+### Italian Authors
 
 **Italo Calvino, 1923-1985**
 
@@ -36,13 +39,13 @@ No One Knows How, 1949
 
 <p><center> ~ * ~ </center></p>
 
-**To Read**
+***To Read:***
 
 The Cloven Viscount, 1952. Calvino
 
+<br/>
 
-
-##### Japanese Authors
+### Japanese Authors
 
 The Master of Go, 1954. Yasunari Kawabata
 
@@ -66,7 +69,7 @@ Sun and Steel, 1968
 
 <p><center> ~ * ~ </center></p>
 
-**To Read**
+***To Read:***
 
 I Haven't Dreamed of Flying for a While, 2008. Taichi Yamada
 
@@ -78,9 +81,9 @@ N.P, 1990. Banana Yoshimoto
 
 Sea of Fertility Tetralogy (Spring Snow, Runaway Horses, Temple of Dawn, The Decay of the Angel), 1965-1971 . Mishima
 
+<br/>
 
-
-##### European Authors
+### European Authors
 
 Siddhartha, 1922. Herman Hesse, Germany, Switzerland
 
@@ -102,7 +105,7 @@ The Trial, 1925
 
 <p><center> ~ * ~ </center></p>
 
-**To Read**
+***To Read:***
 
 The Chameleon, 1884, Kashtanka, 1887, The Student, 1894, Man in a Case, 1898, Gooseberries, 1898. Anton Chekhov, Russia
 
@@ -114,9 +117,9 @@ The Castle, 1926. Kafka
 
 A Hunger Artist, 1922. Kafka
 
+<br/>
 
-
-##### European-American Authors
+### European-American Authors
 
 Slaughterhouse-Five, or, The Children's Crusade: A Duty-Dance with Death, 1969. Kurt Vonnegut, United States
 
@@ -144,7 +147,7 @@ Consider the Lobster and Other Essays, 2005
 
 <p><center> ~ * ~ </center></p>
 
-*To Read*
+***To Read:***
 
 The Bell Jar, 1963. Sylvia Plath
 
@@ -154,9 +157,9 @@ Tender Buttons, 1914. Gertrude Stein
 
 Rabbit, Run, 1960. John Updike
 
+<br/>
 
-
-##### American Authors of Color
+### American Authors of Color
 
 The Kite Runner, 2003. Khaled Hosseini, Afhani-American
 
@@ -182,13 +185,15 @@ Orphan Bachelors, 2023
 
 <p><center> ~ * ~ </center></p>
 
+*** To Read:***
+
 A Thousand Splendid Suns, 2007. Hosseini
 
 Dictée, 1982. Theresa Hak Kyung Cha, Korean-American
 
+<br/>
 
-
-##### Native American Authors
+### Native American Authors
 
 Eyes Bottle Dark with a Mouthful of Flowers, 2019. Jake Skeets, Navajo Nation
 
@@ -206,12 +211,13 @@ Mapping the Interior, 2017
 
 <p><center> ~ * ~ </center></p>
 
-**To Read**
+***To Read:***
 
 The Only Good Indians, 2020. Jones
 
+<br/>
 
-##### Black-American Authors
+### Black-American Authors
 
 Their Eyes Were Watching God, 1937. Zora Neale Hurston, United States
 
@@ -223,7 +229,7 @@ Invisible Man, 1952. Ralph Ellison, United States
 
 The Bluest Eye, 1970. Toni Morisson, United States
 
-**To Read**
+***To Read:***
 
 The Color Purple, 1982. Alice Walker, United States
 
@@ -233,8 +239,9 @@ Sula, 1973. Toni Morisson, United States
 
 The Piano Lesson, 1987. August Wilson, United States
 
+<br/>
 
-##### South American Authors
+### South American Authors
 
 **Gabriel García Márquez, 1927-2014. Colombia**
 
@@ -242,7 +249,7 @@ One Hundred Years of Solitude, 1967. Gabriel García Márquez, Colombia
 
 <p><center> ~ * ~ </center></p>
 
-**To Read:**
+***To Read:***
 
 Conversation in the Cathedral, 1969. Mario Vargas Llosa, Peru
 
@@ -250,9 +257,9 @@ Love in the Time of Cholera, 1985. Márquez
 
 Chronicle of a Death Foretold, 1981. Márquez
 
+<br/>
 
-
-##### Mexican Authors
+### Mexican Authors
 
 The House on Mango Street, 1983. Sandra Cisneros
 
@@ -260,21 +267,21 @@ City of Kings, 1960. Rosario Castellanos
 
 Like Water for Chocolate: a novel in monthly installments, with recipes, romances, and home remedies, 1989. Laura Esquivel
 
+<br/>
 
-
-##### Assorted Fiction
+### Assorted Fiction
 
 Dumb Luck, 1936. Vũ Trọng Phụng, Vietnam
 
 Things Fall Apart, 1958. Chinua Achebe, Nigeria
 
-**To Read:**
+***To Read:***
 
 A Suitable Boy, 1994. Vikram Seth, India
 
+<br/>
 
-
-### Scientific Literature/Textbooks
+## Scientific Literature/Textbooks
 
 Quantum Computing Since Democritus, 2013. Scott Aaronson
 
@@ -288,8 +295,9 @@ Quantum Electrodynamics, 1953. Richard Feynman
 
 The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, 2015. Bessel van der Kolk M.D.
 
+<br/>
 
-### Biographies/Histories
+## Biographies/Histories
 
 The Story of My Experiments with Truth, 1948. Mohandas (Mahatma) Gandhi, India
 
@@ -303,14 +311,15 @@ The Doors of Perception, 1954. Aldous Huxley, United Kingdom
 
 I Know Why the Caged Bird Sings, 1969. Maya Angelou, United States
 
-**To Read:**
+***To Read:***
 
 Minor Feelings: An Asian American Reckoning, 2020. Cathy Park Hong, United States
 
 The Way Forward is With a Broken Heart, 2000. Alice Walker, United States
 
+<br/>
 
-### Music History
+## Music History
 
 Dilla Time: The Life and Afterlife of J Dilla, the Hip-Hop Producer Who Reinvented Rhythm, 2022. Dan Charnas, United States
 
@@ -318,14 +327,15 @@ Move On Up: Chicago Soul Music and Black Cultural Power, 2019. Aaron Cohen, Unit
 
 The Upcycled Self: A Memoir on the Art of Becoming Who We Are, 2023. Tariq (Black Thought) Trotter, United States
 
-**To Read:**
+***To Read:***
 
 Decoded, 2011. Shawn (JAY-Z) Carter, United States.
 
 The Rose That Grew From Concrete, 1999. Tupac Shakur, United States
 
+<br/>
 
-### Spiritual/Historical
+## Spiritual/Historical
 
 Bhagavad Gita, 1st millenium BCE. Vyasa and Unknown Authors, India
 
