@@ -19,7 +19,6 @@ Non-fiction's already outside!
 
 **Italo Calvino, 1923-1985**
 
-
 The Baron in the Trees, 1957
 
 Cosmicomics, 1965
