@@ -52,4 +52,4 @@ The pollen carries through three open windows, so my nose swells shut and I brea
 
 <br/><br/>
 
-Image: Memorial Glade at University of California Berkeley. Lucas Almássy, 2016. Acrylic on canvas.
+Image: Kachha Keri. Pukka Aam, 1814. Calcutta, Watercolour on Paper
