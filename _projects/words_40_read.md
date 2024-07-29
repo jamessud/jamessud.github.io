@@ -71,6 +71,16 @@ Sun and Steel, 1968
 
 <p><center> ~ * ~ </center></p>
 
+**Banana Yoshimoto, 1964-present**
+
+Kitchen, 1988
+
+Asleep, 1989
+
+NP, 1990
+
+<p><center> ~ * ~ </center></p>
+
 ***To Read:***
 
 I Haven't Dreamed of Flying for a While, 2008. Taichi Yamada
@@ -78,8 +88,6 @@ I Haven't Dreamed of Flying for a While, 2008. Taichi Yamada
 Snow Country, 1956. Yasunari Kawabata
 
 Thousand Cranes, 1958. Yasunari Kawabata
-
-N.P, 1990. Banana Yoshimoto
 
 Sea of Fertility Tetralogy (Spring Snow, Runaway Horses, Temple of Dawn, The Decay of the Angel), 1965-1971 . Mishima
 
@@ -161,7 +169,7 @@ Rabbit, Run, 1960. John Updike
 
 <br/>
 
-### American Authors of Color
+### Assorted American Authors
 
 The Kite Runner, 2003. Khaled Hosseini, Afhani-American
 

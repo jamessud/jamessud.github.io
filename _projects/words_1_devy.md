@@ -11,11 +11,9 @@ The cottonwood drooped and decayed onto dark prarie soil. The cottonwood bush wa
 
 A question that often floated to Devy's mind: 
 
-
 &emsp;&emsp;&emsp;&emsp; "Are they mad at me?"
 
 And less often:
-
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Am I mad at *them*?"
 
