@@ -165,15 +165,15 @@ Bluets, 2006. Maggie Nelson
 
 Tender Buttons, 1914. Gertrude Stein
 
-Rabbit, Run, 1960. John Updike
-
 <br/>
 
 ### Assorted American Authors
 
-The Kite Runner, 2003. Khaled Hosseini, Afhani-American
+The Kite Runner, 2003. Khaled Hosseini, Afghani-American
 
 Pachinko, 2017. Min Jin Lee, Korean-American
+
+Rabbit, Run, 1960. John Updike
 
 **Jhumpa Lahiri. 1967-present. English/Indian-American**
 
@@ -283,11 +283,11 @@ Like Water for Chocolate: a novel in monthly installments, with recipes, romance
 
 Dumb Luck, 1936. Vũ Trọng Phụng, Vietnam
 
-Things Fall Apart, 1958. Chinua Achebe, Nigeria
+A Suitable Boy, 1994. Vikram Seth, India
 
 ***To Read:***
 
-A Suitable Boy, 1994. Vikram Seth, India
+Things Fall Apart, 1958. Chinua Achebe, Nigeria
 
 <br/>
 
