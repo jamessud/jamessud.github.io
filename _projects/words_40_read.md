@@ -7,11 +7,11 @@ importance: 40
 category: words
 ---
 
-Personal reading list. Organized first by genre (mainly fiction), second by area/people of origin, and third by authors who I choose to highlight. This isn't to ascribe more weight to the author's identity than the work itself. Especially in fiction, where imaginiation triumphs. But we notice mores emerge, where the author spends their time, or how much time they are willing to spend! This isn't all the books I've read, but all the ones I recommend. 
+Personal reading list. Organized first by genre (mainly fiction), second by area/people of origin, and third by authors who I choose to highlight. This isn't to ascribe more weight to the author's identity than the work itself – especially in fiction, where imaginiation triumphs. But we notice mores emerge: where the author spends their time, or how much time they are willing to spend! This isn't all the books I've read, but all the ones that played a large role in shaping my sensibilities, for better or for worse. 
+
+<br/>
 
 ## Fiction
-
-Non-fiction's already outside!
 
 <br/>
 
@@ -27,7 +27,6 @@ Under the Jaguar Sun, 1968
 
 The Watcher and Other Stories, 1971
 
-<p><center> ~ * ~ </center></p>
 
 **Luigi Pirandello, 1867-1936. (Sicily).**
 
@@ -39,8 +38,6 @@ Tonight We Improvise, 1930
 
 No One Knows How, 1949
 
-<p><center> ~ * ~ </center></p>
-
 ***To Read:***
 
 The Cloven Viscount, 1952. Calvino
@@ -48,12 +45,6 @@ The Cloven Viscount, 1952. Calvino
 <br/>
 
 ### Japanese Authors
-
-The Master of Go, 1954. Yasunari Kawabata
-
-I Am a Cat, 1905. Natsume Sōseki
-
-<p><center> ~ * ~ </center></p>
 
 **Yukio Mishima, 1925-1970**
 
@@ -69,8 +60,6 @@ The Sailor Who Fell From Grace with the Sea, 1963
 
 Sun and Steel, 1968
 
-<p><center> ~ * ~ </center></p>
-
 **Banana Yoshimoto, 1964-present**
 
 Kitchen, 1988
@@ -79,7 +68,11 @@ Asleep, 1989
 
 NP, 1990
 
-<p><center> ~ * ~ </center></p>
+**Assorted**
+
+The Master of Go, 1954. Yasunari Kawabata
+
+I Am a Cat, 1905. Natsume Sōseki
 
 ***To Read:***
 
@@ -95,16 +88,6 @@ Sea of Fertility Tetralogy (Spring Snow, Runaway Horses, Temple of Dawn, The Dec
 
 ### European Authors
 
-Siddhartha, 1922. Herman Hesse, Germany, Switzerland
-
-The Stranger, 1942. Albert Camus, France
-
-Watership Down, 1972. Richard Adams, United Kingdom
-
-The Ultimate Hitchhiker's Guide to the Galaxy (The Hitchhiker’s Guide to the Galaxy, The Restaurant at the End of the Universe, Life, the Universe and Everything, So Long, and Thanks for All the Fish, Mostly Harmless, Young Zaphod Plays It Safe), 2002. Douglas Adams, England.
-
-<p><center> ~ * ~ </center></p>
-
 **Franz Kafka, 1883-1924. Kingdom of Bohemia, Austria-Hungary**
 
 In the Penal Colony, 1914
@@ -113,7 +96,15 @@ The Metamorphisis, 1915
 
 The Trial, 1925
 
-<p><center> ~ * ~ </center></p>
+**Assorted**
+
+Siddhartha, 1922. Herman Hesse, Germany, Switzerland
+
+The Stranger, 1942. Albert Camus, France
+
+Watership Down, 1972. Richard Adams, United Kingdom
+
+The Ultimate Hitchhiker's Guide to the Galaxy (The Hitchhiker’s Guide to the Galaxy, The Restaurant at the End of the Universe, Life, the Universe and Everything, So Long, and Thanks for All the Fish, Mostly Harmless, Young Zaphod Plays It Safe), 2002. Douglas Adams, England.
 
 ***To Read:***
 
@@ -131,6 +122,16 @@ A Hunger Artist, 1922. Kafka
 
 ### European-American Authors
 
+**David Foster Wallace, 1962-2008**
+
+Infinite Jest, 1996
+
+A Supposedly Fun Thing I'll Never Do Again, 1997
+
+Consider the Lobster and Other Essays, 2005 
+
+**Assorted**
+
 Slaughterhouse-Five, or, The Children's Crusade: A Duty-Dance with Death, 1969. Kurt Vonnegut, United States
 
 To Kill a Mockingbird, 1960. Harper Lee, United States
@@ -143,19 +144,7 @@ Catch-22, 1961. Joseph Heller, United States
 
 One Flew Over the Cuckoo's Nest, 1962. Ken Kesey, United States
 
-Parts of Ender's Game Series, (Ender's Game, Speaker for the Dead, Xenocide, Children of the Mind, Ender's Shadow, Shadow of the Hegemon), 1985-2001. Orson Scott Card, United States.
-
-<p><center> ~ * ~ </center></p>
-
-**David Foster Wallace, 1962-2008**
-
-Infinite Jest, 1996
-
-A Supposedly Fun Thing I'll Never Do Again, 1997
-
-Consider the Lobster and Other Essays, 2005 
-
-<p><center> ~ * ~ </center></p>
+Parts of Ender's Game Series, (Ender's Game, Speaker for the Dead, Xenocide, Children of the Mind, Ender's Shadow, Shadow of the Hegemon), 1985-2001. Orson Scott Card, United States.  
 
 ***To Read:***
 
@@ -167,51 +156,10 @@ Tender Buttons, 1914. Gertrude Stein
 
 <br/>
 
-### Assorted American Authors
-
-The Kite Runner, 2003. Khaled Hosseini, Afghani-American
-
-Pachinko, 2017. Min Jin Lee, Korean-American
-
-Rabbit, Run, 1960. John Updike
-
-**Jhumpa Lahiri. 1967-present. English/Indian-American**
-
-Interpreter of Maladies, 1999
-
-The Namesake, 2003
-
-Unaccustomed Earth, 2008
-
-<p><center> ~ * ~ </center></p>
-
-**Fae Myenne Ng, 1956-present. Chinese-American**
-
-Bone, 1998
-
-Steer Toward Rock, 2008
-
-Orphan Bachelors, 2023
-
-<p><center> ~ * ~ </center></p>
-
-*** To Read:***
-
-A Thousand Splendid Suns, 2007. Hosseini
-
-Dictée, 1982. Theresa Hak Kyung Cha, Korean-American
 
 <br/>
 
 ### Native American Authors
-
-Eyes Bottle Dark with a Mouthful of Flowers, 2019. Jake Skeets, Navajo Nation
-
-The Round House, 2012. Louise Erdich, Turtle Mountain Band of Chippewa Indians, Ojibwe people
-
-Future Home of the Living God, 2017. Louise Erdich, Turtle Mountain Band of Chippewa Indians, Ojibwe people
-
-<p><center> ~ * ~ </center></p>
 
 **Stephen Graham Jones, 1972-present. Blackfeet Tribe of the Blackfeet Indian Reservation of Montana**
 
@@ -219,7 +167,13 @@ Ledfeather, 2008
 
 Mapping the Interior, 2017
 
-<p><center> ~ * ~ </center></p>
+**Assorted**
+
+Eyes Bottle Dark with a Mouthful of Flowers, 2019. Jake Skeets, Navajo Nation
+
+The Round House, 2012. Louise Erdich, Turtle Mountain Band of Chippewa Indians, Ojibwe people
+
+Future Home of the Living God, 2017. Louise Erdich, Turtle Mountain Band of Chippewa Indians, Ojibwe people
 
 ***To Read:***
 
@@ -228,6 +182,8 @@ The Only Good Indians, 2020. Jones
 <br/>
 
 ### Black-American Authors
+
+**Assorted**
 
 Their Eyes Were Watching God, 1937. Zora Neale Hurston, United States
 
@@ -257,8 +213,6 @@ The Piano Lesson, 1987. August Wilson, United States
 
 One Hundred Years of Solitude, 1967. Gabriel García Márquez, Colombia 
 
-<p><center> ~ * ~ </center></p>
-
 ***To Read:***
 
 Conversation in the Cathedral, 1969. Mario Vargas Llosa, Peru
@@ -279,7 +233,39 @@ Like Water for Chocolate: a novel in monthly installments, with recipes, romance
 
 <br/>
 
-### Assorted Fiction
+### Assorted American Authors
+
+**Jhumpa Lahiri. 1967-present. English/Indian-American**
+
+Interpreter of Maladies, 1999
+
+The Namesake, 2003
+
+Unaccustomed Earth, 2008
+
+**Fae Myenne Ng, 1956-present. Chinese-American**
+
+Bone, 1998
+
+Steer Toward Rock, 2008
+
+Orphan Bachelors, 2023
+
+**Assorted**
+
+The Kite Runner, 2003. Khaled Hosseini, Afghani-American
+
+Pachinko, 2017. Min Jin Lee, Korean-American
+
+Rabbit, Run, 1960. John Updike
+
+*** To Read:***
+
+A Thousand Splendid Suns, 2007. Hosseini
+
+Dictée, 1982. Theresa Hak Kyung Cha, Korean-American
+
+### Assorted World Authors
 
 Dumb Luck, 1936. Vũ Trọng Phụng, Vietnam
 
@@ -303,7 +289,7 @@ The Fabric of the Cosmos, 2013. Brian Greene
 
 Quantum Electrodynamics, 1953. Richard Feynman
 
-The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, 2015. Bessel van der Kolk M.D.
+Energy for Future Presidents, 2012. Richard Muller
 
 <br/>
 
@@ -320,6 +306,8 @@ The Short and Tragic Life of Robert Peace, 2015. Jeff Hobbs, United States
 The Doors of Perception, 1954. Aldous Huxley, United Kingdom
 
 I Know Why the Caged Bird Sings, 1969. Maya Angelou, United States
+
+The Partition of India Parts 1-6 on Conflicted: A History Podcast. 2022. Zach Cornwell, United States. (podcast)
 
 ***To Read:***
 
@@ -358,22 +346,6 @@ Anger: Wisdom for Cooling the Flames, 2002.  Thich Nhat Hanh, Vietnam, France.
 Epic of Gilgamesh, 2nd and 3rd millenium BCE. Unknown Authors, Mesopotamia
 
 Ramayana: Divine Loophole, 2010. Sanjay Patel, United States. (Based on Ramayana, 8th century BCE - 3rd century CE. Valmiki, India)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
