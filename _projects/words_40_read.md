@@ -15,7 +15,9 @@ Personal reading list. Organized first by genre (mainly fiction), second by area
 
 <br/>
 
-### Italian Authors
+#### Italian Authors
+
+<br/>
 
 **Italo Calvino, 1923-1985**
 
@@ -44,7 +46,9 @@ The Cloven Viscount, 1952. Calvino
 
 <br/>
 
-### Japanese Authors
+#### Japanese Authors
+
+<br/>
 
 **Yukio Mishima, 1925-1970**
 
@@ -86,7 +90,9 @@ Sea of Fertility Tetralogy (Spring Snow, Runaway Horses, Temple of Dawn, The Dec
 
 <br/>
 
-### European Authors
+#### European Authors
+
+<br/>
 
 **Franz Kafka, 1883-1924. Kingdom of Bohemia, Austria-Hungary**
 
@@ -120,7 +126,9 @@ A Hunger Artist, 1922. Kafka
 
 <br/>
 
-### European-American Authors
+#### European-American Authors
+
+<br/>
 
 **David Foster Wallace, 1962-2008**
 
@@ -156,10 +164,9 @@ Tender Buttons, 1914. Gertrude Stein
 
 <br/>
 
+#### Native American Authors
 
 <br/>
-
-### Native American Authors
 
 **Stephen Graham Jones, 1972-present. Blackfeet Tribe of the Blackfeet Indian Reservation of Montana**
 
@@ -181,7 +188,9 @@ The Only Good Indians, 2020. Jones
 
 <br/>
 
-### Black-American Authors
+#### Black-American Authors
+
+<br/>
 
 **Assorted**
 
@@ -207,7 +216,9 @@ The Piano Lesson, 1987. August Wilson, United States
 
 <br/>
 
-### South American Authors
+#### South American Authors
+
+<br/>
 
 **Gabriel García Márquez, 1927-2014. Colombia**
 
@@ -223,7 +234,9 @@ Chronicle of a Death Foretold, 1981. Márquez
 
 <br/>
 
-### Mexican Authors
+#### Mexican Authors
+
+<br/>
 
 The House on Mango Street, 1983. Sandra Cisneros
 
@@ -233,7 +246,9 @@ Like Water for Chocolate: a novel in monthly installments, with recipes, romance
 
 <br/>
 
-### Assorted American Authors
+#### Assorted American Authors
+
+<br/>
 
 **Jhumpa Lahiri. 1967-present. English/Indian-American**
 
@@ -265,7 +280,11 @@ A Thousand Splendid Suns, 2007. Hosseini
 
 Dictée, 1982. Theresa Hak Kyung Cha, Korean-American
 
-### Assorted World Authors
+<br/>
+
+#### Assorted World Authors
+
+<br/>
 
 Dumb Luck, 1936. Vũ Trọng Phụng, Vietnam
 
