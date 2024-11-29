@@ -7,7 +7,7 @@ importance: 39
 category: words
 ---
 
-The prairies I traveled were so long your screams couldn’t travel across. I holds peace safe from curses that shot my way, but were scattered by the grass, midwestern winter winds, and lies.
+The prairies I traveled were so long your screams couldn’t travel across. I hold peace safe from curses that shot my way, but were scattered by the grass, midwestern winter winds, and lies.
 
 
 <br/><br/>
