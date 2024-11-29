@@ -2,8 +2,8 @@
 layout: page
 title: Iris
 description: 
-img: assets/img/for_writing/geology.jpg
-importance: 35
+img: assets/img/for_writing/iris.jpg
+importance: 37
 category: words
 ---
 

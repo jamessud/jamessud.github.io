@@ -2,7 +2,7 @@
 layout: page
 title: The Welder
 description: 
-img: assets/img/for_writing/tenor.jpg
+img: assets/img/for_writing/welder.jpg
 importance: 12
 category: words
 ---

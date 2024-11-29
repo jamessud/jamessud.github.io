@@ -3,7 +3,7 @@ layout: page
 title: Spring Up and Slowly Die
 description: 
 img: assets/img/for_writing/spring.jpg
-importance: 37
+importance: 35
 category: words
 ---
 

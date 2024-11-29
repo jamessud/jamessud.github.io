@@ -2,7 +2,7 @@
 layout: page
 title: Lucy
 description: 
-img: assets/img/for_writing/trippy.jpg
+img: assets/img/for_writing/lucy.jpg
 importance: 33
 category: words
 ---

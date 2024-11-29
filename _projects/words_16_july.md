@@ -2,7 +2,7 @@
 layout: page
 title: Hot July 
 description: three poems
-img: assets/img/for_writing/cacti.jpg
+img: assets/img/for_writing/july.jpg
 importance: 16
 category: words
 ---

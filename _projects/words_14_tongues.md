@@ -2,7 +2,7 @@
 layout: page
 title: Tounges and Dying and Who Are We To Judge?
 description: 
-img: assets/img/for_writing/landfill.jpg
+img: assets/img/for_writing/tounges.jpg
 importance: 14
 category: words
 ---

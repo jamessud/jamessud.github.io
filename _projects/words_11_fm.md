@@ -2,7 +2,7 @@
 layout: page
 title: FM
 description: 
-img: assets/img/for_writing/fm_alt.jpg
+img: assets/img/for_writing/fm.jpg
 importance: 11
 category: words
 ---

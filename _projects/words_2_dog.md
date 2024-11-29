@@ -2,7 +2,7 @@
 layout: page
 title: Dogs
 description: 
-img: assets/img/for_writing/dog_cropped.jpg
+img: assets/img/for_writing/dog.jpg
 importance: 2
 category: words
 ---
