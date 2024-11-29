@@ -35,4 +35,4 @@ my feet are large and
 
 <br/><br/>
 
-Image: God Shiva as Lord Who Is Half-Male, Half-Female (Ardhanarishvara). Tamil Nadu, India. 14th century. Granite. Art Institute of Chicago. Photo by me.
+Image: God Shiva as Lord Who Is Half-Male, Half-Female (Ardhanarishvara). Tamil Nadu, India. 14th century. Granite.

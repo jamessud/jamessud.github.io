@@ -56,4 +56,4 @@ Kalki even lets out a giggle as they topple head-over-feet down the Alps.
 
 <br/><br/>
 
-Image: The Edelweiss and The Lotus, by James Sud. Digital.
+Image: The Edelweiss and The Lotus, James Sud. 2022. Digital.

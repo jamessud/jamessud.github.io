@@ -24,4 +24,4 @@ Looking at a spreadsheet cell I feel like I am peering through the cloudy, smudg
 
 <br/><br/>
 
-Image: Rain, Steam and Speed – The Great Western Railway by Joseph Mallord William Turner. 	1844. Oil on Canvas. National Gallery, London
+Image: Rain, Steam and Speed – The Great Western Railway by Joseph Mallord William Turner. 	1844. Oil on Canvas. 

@@ -72,4 +72,4 @@ so the landing spot was shrouded,
 
 <br/><br/>
 
-Image: Part of the Cliff, Georgia O’Keeffe. Oil on canvas, 1946. Georgia O'Keeffe Museum, Gift of The Georgia O’Keeffe Foundation.
+Image: Part of the Cliff, Georgia O’Keeffe. Oil on canvas, 1946.

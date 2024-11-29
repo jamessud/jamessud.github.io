@@ -78,4 +78,4 @@ Our welder leaves our view, and returns with a ruler, to measure the length of h
 
 <br/><br/>
 
-Image: Tenor Sermon, from the Jazz Series by Romare Bearden, 1979. Color lithograph on paper. Smithsonian American Art Museum, Renwick Gallery.
+Image: Tenor Sermon, from the Jazz Series, Romare Bearden. 1979. Color lithograph on paper.

@@ -35,4 +35,4 @@ He wants to be a bright orange hang glider that burns through beige cliffs,
 
 <br/><br/>
 
-Image: Awakening (Memory of Father), Agnes Pelton. Oil on Canvas. 1943. Collection of the New Mexico Museum of Art. 
+Image: Awakening (Memory of Father), Agnes Pelton. Oil on Canvas. 1943. 

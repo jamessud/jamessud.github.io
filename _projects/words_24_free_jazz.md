@@ -25,4 +25,4 @@ The crowd claps with soaked hands and eyes droop. After a moment's rest another 
 
 <br/><br/>
 
-Image: Wassily Kandinsky, Composition VII. 1913, Oil on canvas. Tretyakov Gallery, Moscow, Russia
+Image: Composition VII, Wassily Kandinsky. 1913. Oil on canvas. 

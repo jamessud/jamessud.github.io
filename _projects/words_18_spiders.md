@@ -38,4 +38,4 @@ and dream of building webs to the moon.
 
 <br/><br/>
 
-Image: Petroglyphs in Chilean Atacama Desert by Zdeněk Bardon, 2019. European Southern Observatory
+Image: Petroglyphs in Chilean Atacama Desert, Zdeněk Bardon, 2019. European Southern Observatory.

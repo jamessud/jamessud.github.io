@@ -19,4 +19,4 @@ A click turned on a record and started it spinning, and a rush of sonar energy a
 
 <br/><br/>
 
-Image: Detail from Floor of House of Leigh McCloskey. 2000s. 
+Image: Detail from Floor of House of Leigh McCloskey, Leigh McCloskey. 2000s. 

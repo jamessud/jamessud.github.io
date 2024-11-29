@@ -48,4 +48,4 @@ or a dream.
 
 <br/><br/>
 
-Image: New Mexico — Near Taos, Georgia O’Keeffe. Oil on canvas laid down on board. 1929.
+Image: New Mexico — Near Taos, Georgia O’Keeffe. 1929. Oil on canvas laid down on board. 

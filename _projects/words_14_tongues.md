@@ -51,4 +51,4 @@ Rocking back and forth in the same chair his grandmother used to cradle him, tha
 
 Note: The main body of this work was written when I was 16. The last paragraph was written when I was 24. And yes, that does say what you think it might say about me.
 
-Image: Landfill by Ricardo Laranjo, 2011. Oil on Canvas. 
+Image: Landfill, Ricardo Laranjo, 2011. Oil on Canvas. 

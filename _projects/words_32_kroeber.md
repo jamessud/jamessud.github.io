@@ -97,4 +97,4 @@ maybe it feels like the sand.
 
 <br/><br/>
 
-Image: Memorial Glade at University of California Berkeley. Lucas Almássy, 2016. Acrylic on canvas.
+Image: Memorial Glade at University of California Berkeley, Lucas Almássy, 2016. Acrylic on canvas.

@@ -20,4 +20,4 @@ On the beach, with fingers caught in his brother’s hair, Enzo’s thoughts dri
 
 <br/><br/>
 
-Image: Beach Painting (76) by Agostino Veroni. Saatchi Art.
+Image: Beach Painting (76), Agostino Veroni. Saatchi Art.

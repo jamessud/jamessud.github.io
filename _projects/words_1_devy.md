@@ -25,4 +25,4 @@ With mud on their forhead, Devy, on knees and hands, arched their back and let t
 
 <br/><br/>
 
-Image: Carl Sprinchorn. Purple Mountains, c.1946, Oil on canvas mounted on aluminum panel. Lent by and promised gift of Reverend Richard L. Hillstrom
+Image: Carl Sprinchorn. Purple Mountains, c.1946, Oil on canvas mounted on aluminum panel. 

@@ -29,4 +29,4 @@ She struck the string.
 
 <br/><br/>
 
-Image: Untitled by Roberto Matta, ca. 1938. Colored wax crayon and lead pencil on paper. 
+Image: Untitled, Roberto Matta. ca. 1938. Colored wax crayon and lead pencil on paper. 

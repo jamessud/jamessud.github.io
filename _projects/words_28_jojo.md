@@ -63,4 +63,4 @@ Recording can be found [here](https://www.boloji.com/mystic-songs-details/12/kau
 
 <br/><br/>
 
-Image: Yama on Buffalo, Unknown. Gouache on paper, 1820 (circa). The British Museum.
+Image: Yama on Buffalo, Unknown. Gouache on paper, 1820 (circa). 

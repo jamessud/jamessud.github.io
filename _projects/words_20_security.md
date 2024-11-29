@@ -31,4 +31,4 @@ So upstairs the barometer kept tweaking up. The bass still seeped out of the wal
 
 <br/><br/>
 
-Image: Screenshot of me at Gnashing Art Show 2016 from one of Jessica Borchardt's old Instagrams.
+Image: Me at Gnashing Art Show, Jessica Borchardt. 2016. Digital Photo.

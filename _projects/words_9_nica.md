@@ -12,4 +12,4 @@ Nica dreamed of a night with no cold. Her bare knees rested together, her ankles
 
 <br/><br/>
 
-Image: Mark Rothko, Untitled [Blue, Green, and Brown], 1952 (alternatively dated to 1951), pigmented hide glue and oil on canvas. Collection of Mrs. Paul Mellon, Upperville, Virginia
+Image: Untitled [Blue, Green, and Brown], Mark Rothko. 1952 (alternatively dated to 1951), pigmented hide glue and oil on canvas. 

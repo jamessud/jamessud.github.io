@@ -27,4 +27,4 @@ She had a little brother who she called her “pupil.”
 
 <br/><br/>
 
-Image: Landscape agate (‘Peak’) from Mexico, from the collection of Roger Caillois. First published in Caillois’s book ‘L’écriture des pierres’, 1970. 
+Image: Landscape agate (‘Peak’) in Mexico from ‘L’écriture des pierres’, Roger Caillois. 1970. Photograph. 

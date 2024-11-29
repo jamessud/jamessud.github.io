@@ -45,4 +45,4 @@ As his heart began to rush, he closed his eyes and breathed slowly through his n
 
 <br/><br/>
 
-Image: Mexican Beach Boys by Wayne Thiebaud. 1961. Oil on Canvas.
+Image: Mexican Beach Boys, Wayne Thiebaud. 1961. Oil on Canvas.

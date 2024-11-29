@@ -5,7 +5,7 @@ permalink: /flowers/
 description: boquets and offerings
 nav: true
 nav_order: 2
-display_categories: [words, craft]
+display_categories: [words, read, craft]
 horizontal: false
 ---
 

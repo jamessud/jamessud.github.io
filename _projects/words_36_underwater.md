@@ -50,4 +50,4 @@ I stood there, with water up to my hips and the sun unclouded above. Inside I fe
 
 <br/><br/>
 
-Image: Portrait of an Artist (Pool with Two Figures) by David Hockney. 	1972. Acrylic on canvas
+Image: Portrait of an Artist (Pool with Two Figures), David Hockney. 1972. Acrylic on canvas.

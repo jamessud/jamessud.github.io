@@ -76,4 +76,4 @@ Whatsapp and Nextdoor chats ignite
 
 <br/><br/>
 
-Image: Landscape with Cacti 1 by Diego Rivera, 1931. Oil on canvas.
+Image: Landscape with Cacti 1, Diego Rivera, 1931. Oil on canvas.

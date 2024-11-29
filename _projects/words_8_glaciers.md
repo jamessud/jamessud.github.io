@@ -32,4 +32,4 @@ looking for a safe box,
 
 <br/><br/>
 
-Image: Paysage de Montagne Avec Glacier by Alexandre Calame, ca. 1857-1862. Oil on Cardboard. 
+Image: Paysage de Montagne Avec Glacier, Alexandre Calame, ca. 1857-1862. Oil on Cardboard. 

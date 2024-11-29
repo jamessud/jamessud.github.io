@@ -102,4 +102,4 @@ would do for us what
 
 <br/><br/>
 
-Image: Screenshot from GX1000: Best of Sean Greene's Hill Bombs by Thrasher Magazine. 
+Image: Screenshot from Youtube Video "[GX1000: Best of Sean Greene's Hill Bombs](https://www.youtube.com/watch?v=pnzgRB8qH4k)". Thrasher Magazine. 2017

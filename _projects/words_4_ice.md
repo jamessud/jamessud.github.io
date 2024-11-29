@@ -208,4 +208,4 @@ we turn to our neighbors to relight the flame
 
 <br/><br/>
 
-Image: Barn Near Columbia, MO by Marc Bonhe, 10 x 12 inches, oil on panel
+Image: Barn Near Columbia, MO by Marc Bonhe, 10 x 12 inches, oil on panel.

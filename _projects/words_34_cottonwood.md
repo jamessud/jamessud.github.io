@@ -15,4 +15,4 @@ The cottonwood laces into his crusty eyelashes. His head and body lie flat on th
 
 <br/><br/>
 
-Image: The Sleeping Man in a Greater Manchester Street. Harold Riley, 1973. Oil on canvas.
+Image: The Sleeping Man in a Greater Manchester Street, Harold Riley, 1973. Oil on canvas.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Throat Is Dry
-description: 
+description: A story and a poem
 img: assets/img/for_writing/throat.png
 importance: 17
 category: words
@@ -47,9 +47,20 @@ This way the sugar crash drops me gently into a midday nap.
 
 The pollen carries through three open windows, so my nose swells shut and I breathe through my mouth. When I wake up, my throat is dry and the pulpy thread still rests lingers astringent.
 
+<br/>
+
+<p><center> ~ * ~ </center></p>
+
+<br/>
+
+My throat is dry,
+
+so if I talk I croak.
+
+*Lo siento*.
 
 
 
 <br/><br/>
 
-Image: Kachha Keri. Pukka Aam, 1814. Calcutta, Watercolour on Paper
+Image: Kachha Keri. Pukka Aam, 1814. Calcutta. Watercolor on Paper.

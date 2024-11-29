@@ -3,8 +3,8 @@ layout: page
 title: Read
 description: 
 img: assets/img/for_writing/read.jpg
-importance: 40
-category: words
+importance: 1
+category: read
 ---
 
 Personal reading list. Organized first by genre (mainly fiction), second by area/people of origin, and third by authors who I choose to highlight. This isn't to ascribe more weight to the author's identity than the work itself – especially in fiction, where imaginiation triumphs. But we notice mores emerge: where the author spends their time, or how much time they are willing to spend! This isn't all the books I've read, but all the ones that played a large role in shaping my sensibilities, for better or for worse. 
@@ -16,8 +16,6 @@ Personal reading list. Organized first by genre (mainly fiction), second by area
 <br/>
 
 #### Italian Authors
-
-<br/>
 
 **Italo Calvino, 1923-1985**
 
@@ -47,8 +45,6 @@ The Cloven Viscount, 1952. Calvino
 <br/>
 
 #### Japanese Authors
-
-<br/>
 
 **Yukio Mishima, 1925-1970**
 
@@ -92,8 +88,6 @@ Sea of Fertility Tetralogy (Spring Snow, Runaway Horses, Temple of Dawn, The Dec
 
 #### European Authors
 
-<br/>
-
 **Franz Kafka, 1883-1924. Kingdom of Bohemia, Austria-Hungary**
 
 In the Penal Colony, 1914
@@ -127,8 +121,6 @@ A Hunger Artist, 1922. Kafka
 <br/>
 
 #### European-American Authors
-
-<br/>
 
 **David Foster Wallace, 1962-2008**
 
@@ -166,8 +158,6 @@ Tender Buttons, 1914. Gertrude Stein
 
 #### Native American Authors
 
-<br/>
-
 **Stephen Graham Jones, 1972-present. Blackfeet Tribe of the Blackfeet Indian Reservation of Montana**
 
 Ledfeather, 2008
@@ -189,8 +179,6 @@ The Only Good Indians, 2020. Jones
 <br/>
 
 #### Black-American Authors
-
-<br/>
 
 **Assorted**
 
@@ -218,8 +206,6 @@ The Piano Lesson, 1987. August Wilson, United States
 
 #### South American Authors
 
-<br/>
-
 **Gabriel García Márquez, 1927-2014. Colombia**
 
 One Hundred Years of Solitude, 1967. Gabriel García Márquez, Colombia 
@@ -236,8 +222,6 @@ Chronicle of a Death Foretold, 1981. Márquez
 
 #### Mexican Authors
 
-<br/>
-
 The House on Mango Street, 1983. Sandra Cisneros
 
 City of Kings, 1960. Rosario Castellanos
@@ -247,8 +231,6 @@ Like Water for Chocolate: a novel in monthly installments, with recipes, romance
 <br/>
 
 #### Assorted American Authors
-
-<br/>
 
 **Jhumpa Lahiri. 1967-present. English/Indian-American**
 
@@ -284,8 +266,6 @@ Dictée, 1982. Theresa Hak Kyung Cha, Korean-American
 
 #### Assorted World Authors
 
-<br/>
-
 Dumb Luck, 1936. Vũ Trọng Phụng, Vietnam
 
 A Suitable Boy, 1994. Vikram Seth, India
@@ -297,6 +277,8 @@ Things Fall Apart, 1958. Chinua Achebe, Nigeria
 <br/>
 
 ## Scientific Literature/Textbooks
+
+<br/>
 
 Quantum Computing Since Democritus, 2013. Scott Aaronson
 
@@ -313,6 +295,8 @@ Energy for Future Presidents, 2012. Richard Muller
 <br/>
 
 ## Biographies/Histories
+
+<br/>
 
 The Story of My Experiments with Truth, 1948. Mohandas (Mahatma) Gandhi, India
 
@@ -338,6 +322,8 @@ The Way Forward is With a Broken Heart, 2000. Alice Walker, United States
 
 ## Music History
 
+<br/>
+
 Dilla Time: The Life and Afterlife of J Dilla, the Hip-Hop Producer Who Reinvented Rhythm, 2022. Dan Charnas, United States
 
 Move On Up: Chicago Soul Music and Black Cultural Power, 2019. Aaron Cohen, United States
@@ -352,7 +338,9 @@ The Rose That Grew From Concrete, 1999. Tupac Shakur, United States
 
 <br/>
 
-## Spiritual/Historical
+## Spiritual
+
+<br/>
 
 Bhagavad Gita, 1st millenium BCE. Vyasa and Unknown Authors, India
 

@@ -145,4 +145,4 @@ Mini took the sausage and ate it. His stomach was tense and anxious, but he was 
 
 <br/><br/>
 
-Image: Francisco Goya, The Dog. Circa 1819–1823, Oil mural on plaster transferred to canvas. Museo del Prado, Madrid
+Image: Francisco Goya, The Dog. Circa 1819–1823, Oil mural on plaster transferred to canvas.
