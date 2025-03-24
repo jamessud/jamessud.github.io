@@ -22,7 +22,10 @@ jobs:
         ruby-version: '3.0.2'
         bundler-cache: false  # Ensure fresh install
 
-    
+    - name: Clean Old Dependencies
+      run: |
+        rm -rf vendor/bundle
+        bundle install --jobs 4 --retry 3
 
     - name: Install Gems
       run: |
