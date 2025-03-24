@@ -20,7 +20,17 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        bundler-cache: true  # Caches and installs gems automatically
+        bundler-cache: false  # Force a fresh install
+
+    - name: Clean Old Dependencies
+      run: |
+        rm -rf vendor/bundle
+        bundle install --jobs 4 --retry 3
+    - name: Install Gems
+      run: |
+        gem install bundler
+        bundle update --bundler
+        bundle install
 
     - name: Install Dependencies
       run: |
