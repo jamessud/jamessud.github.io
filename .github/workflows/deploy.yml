@@ -20,12 +20,15 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        bundler-cache: false  # Force a fresh install
+        bundler-cache: false  # Ensure fresh install
+
+    
+
     - name: Install Gems
       run: |
         gem install bundler
         bundle update --bundler
-        bundle install
+        bundle install --jobs 4 --retry 3
     - name: Install deps
       run: |
         npm install -g mermaid.cli
