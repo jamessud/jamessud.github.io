@@ -19,6 +19,8 @@ Personal reading list. Organized first by genre (mainly fiction), second by area
 
 **Italo Calvino, 1923-1985**
 
+The Cloven Viscount, 1952.
+
 The Baron in the Trees, 1957
 
 Cosmicomics, 1965
@@ -38,9 +40,6 @@ Tonight We Improvise, 1930
 
 No One Knows How, 1949
 
-***To Read:***
-
-The Cloven Viscount, 1952. Calvino
 
 <br/>
 
@@ -68,9 +67,13 @@ Asleep, 1989
 
 NP, 1990
 
-**Assorted**
+**Yasunari Kawabata, 1899-1972**
 
-The Master of Go, 1954. Yasunari Kawabata
+Thousand Cranes, 1949
+
+Master of Go, 1951
+
+**Assorted**
 
 I Am a Cat, 1905. Natsume Sōseki
 
@@ -80,11 +83,10 @@ I Haven't Dreamed of Flying for a While, 2008. Taichi Yamada
 
 Snow Country, 1956. Yasunari Kawabata
 
-Thousand Cranes, 1958. Yasunari Kawabata
-
 Sea of Fertility Tetralogy (Spring Snow, Runaway Horses, Temple of Dawn, The Decay of the Angel), 1965-1971 . Mishima
 
 <br/>
+
 
 #### European Authors
 
