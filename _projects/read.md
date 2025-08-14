@@ -59,6 +59,16 @@ The Sailor Who Fell From Grace with the Sea, 1963
 
 Sun and Steel, 1968
 
+Sea of Fertility Tetralogy: 
+
+Spring Snow, 1969
+
+Runaway Horses, 1969
+
+Temple of Dawn, 1970
+
+The Decay of the Angel, 1971
+
 **Banana Yoshimoto, 1964-present**
 
 Kitchen, 1988
@@ -83,7 +93,7 @@ I Haven't Dreamed of Flying for a While, 2008. Taichi Yamada
 
 Snow Country, 1956. Yasunari Kawabata
 
-Sea of Fertility Tetralogy (Spring Snow, Runaway Horses, Temple of Dawn, The Decay of the Angel), 1965-1971 . Mishima
+ Mishima
 
 <br/>
 
@@ -210,7 +220,9 @@ The Piano Lesson, 1987. August Wilson, United States
 
 **Gabriel García Márquez, 1927-2014. Colombia**
 
-One Hundred Years of Solitude, 1967. Gabriel García Márquez, Colombia 
+One Hundred Years of Solitude, 1967. 
+
+Chronicle of a Death Foretold, 1981. Márquez
 
 ***To Read:***
 
@@ -218,7 +230,7 @@ Conversation in the Cathedral, 1969. Mario Vargas Llosa, Peru
 
 Love in the Time of Cholera, 1985. Márquez
 
-Chronicle of a Death Foretold, 1981. Márquez
+
 
 <br/>
 
