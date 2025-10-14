@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 <br/><br/>
 
-Like ice in the sun.
+🍉
 
     
