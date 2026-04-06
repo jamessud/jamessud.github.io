@@ -1,25 +1,20 @@
 ---
-layout: about
-title: about
+layout: none
 permalink: /
-subtitle: 
-
-profile:
-  align: right
-  image: hahmez_logo.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>John Crerar Library 277</p>
-    <p>5730 S Ellis Ave</p>
-    <p>Chicago, IL, 60637</p>
-
-news: false  # includes a list of news items
-selected_papers: false  # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
 ---
 
-<br/><br/>
+<style>
+  html, body {
+    margin: 0;
+    height: 100%;
+  }
+  object {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+</style>
 
-🍉
+<object type="image/svg+xml" data="/assets/svg/home.svg"></object>
 
     
