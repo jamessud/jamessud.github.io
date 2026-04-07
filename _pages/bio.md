@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /cv/
+permalink: /bio/
 ---
 
 <style>
@@ -15,4 +15,4 @@ permalink: /cv/
   }
 </style>
 
-<object type="image/svg+xml" data="/assets/pdf/Sud_CV.pdf"></object>
+<object type="image/svg+xml" data="/assets/svg/bio.svg"></object>

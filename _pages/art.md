@@ -1,11 +1,10 @@
 ---
 layout: page
-title: flowers
-permalink: /flowers/
-description: boquets and offerings
-nav: true
+title: art
+permalink: /art/
+description: 
 nav_order: 2
-display_categories: [words, read, craft]
+display_categories: [craft]
 horizontal: false
 ---
 
