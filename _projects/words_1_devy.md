@@ -9,14 +9,6 @@ category: words
 
 The cottonwood drooped and decayed onto dark prarie soil. The cottonwood bush was drenched, from a day of rain.
 
-A question that often floated to Devy's mind: 
-
-&emsp;&emsp;&emsp;&emsp; "Are they mad at me?"
-
-And less often:
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Am I mad at *them*?"
-
 Devy drooped like the wet cottonwood. The dark brown prarie soil first cooled their knees, then their fingers, then the forehead. The rains had just ceased. 
 
 Devy felt a woozy season descending, with time mediated by a coarse fabric that bound them by the limbs. Fibrous, so when they squirmed, the friction cut at the soft skin of their palms and wrist. The season was intertwining, pulling bodies closer together, shrinking space. It tightened and wove like a skillful stitch.

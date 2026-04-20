@@ -3,7 +3,7 @@ layout: page
 title: Like Ice in the Sun
 description: collection of poems from Illinois and Wisconsin, winter 2022-2023
 img: assets/img/for_writing/winter.jpg
-importance: 4
+importance: 9
 category: words
 ---
 

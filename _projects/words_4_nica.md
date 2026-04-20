@@ -3,7 +3,7 @@ layout: page
 title: Nica
 description: 
 img: assets/img/for_writing/nica.jpg
-importance: 9
+importance: 4
 category: words
 ---
 

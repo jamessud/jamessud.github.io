@@ -11,20 +11,6 @@ In the late spring, when my windows are open (the ones that face south), the wes
 
 This way the sugar crash drops me gently into a midday nap.
 
-<p><center> ~ * ~ </center></p>
-
-*Mini holding breath or breathing*
-
-&emsp;&emsp;&emsp;&emsp; *in an out.*
-
-*Walking down the staircase hearing:*
-
-&emsp;&emsp;&emsp;&emsp;*“you bitch, don’t walk away!”*
-
-&emsp;&emsp;&emsp;&emsp; *“you bitch!”*
-
-*No moment of stopping and turning around at the bottom of a stairwell or outside the door or the sidewalk crying.*
-
 *Thinking about walking back home, sticking their thumb in their throat right at the crab apple.*
 
 <br/>
