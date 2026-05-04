@@ -3,7 +3,7 @@ layout: page
 title: Miscellaneous
 description: Production
 img: assets/img/music/misc.jpg
-importance: 6
+importance: 7
 category: music
 ---
 

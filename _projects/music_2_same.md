@@ -15,6 +15,8 @@ UPCOMING: Ragamala at Chicago Cultural Center, September 2026.
 
 Recordings:
 
+* [2026 Spring Concert](https://www.youtube.com/live/Kkd_3rWK7FI?si=ejDHRa8mp2BYiBSt)
+
 * [2025 Spring Concert](https://www.youtube.com/watch?v=HIbkdMUD-w0&list=PLlFgFQ8PVYb_4mukj0xGZBD18AeWMFK8d&index=1)
 
 * [2024 Spring Concert](https://www.youtube.com/watch?v=FM3KqBXxd1s&list=PLlFgFQ8PVYb_4mukj0xGZBD18AeWMFK8d&index=2)
