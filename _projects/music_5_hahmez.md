@@ -9,9 +9,7 @@ category: music
 
 2016-present. 
 
-Albums:
-
-* [Hahmez Soundcloud](https://soundcloud.com/hamesyzm/tracks).
+[Soundcloud](https://soundcloud.com/hamesyzm/tracks).
 
 
 
