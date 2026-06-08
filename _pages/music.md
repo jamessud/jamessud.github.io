@@ -8,6 +8,14 @@ display_categories: [music]
 horizontal: false
 ---
 
+<div class="music-bio">
+  <ul>
+    <li>Instruments: Acoustic/electric guitar, upright/electric bass</li>
+    <li>Genres: Jazz, Hindustani, hiphop</li>
+    <li>Production: Ableton</li>
+  </ul>
+</div>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

@@ -7,9 +7,11 @@ importance: 5
 category: music
 ---
 
-2016-present. 
+Personal noodlings. 2016-present. 
 
 [Soundcloud](https://soundcloud.com/hamesyzm/tracks).
+
+[Youtube](https://www.youtube.com/@jamessud7469)
 
 
 
